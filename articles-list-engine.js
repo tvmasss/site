@@ -88,3 +88,4 @@ function goToPage(page, category, search) {
 // Запуск (можно передать название категории, например loadArticles(1, 'news'))
 document.addEventListener("DOMContentLoaded", () => loadArticles(1));
 
+
