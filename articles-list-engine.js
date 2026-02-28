@@ -1,4 +1,4 @@
-const API_URL = 'https://api.allorigins.win' + encodeURIComponent('http://g9869137.beget.tech/hadler.php');
+const API_URL = 'http://g9869137.beget.tech/handler.php'; 
 
 async function loadArticles(page = 1, category = '', search = '') {
     const container = document.getElementById('articles-list-container');
@@ -10,9 +10,8 @@ async function loadArticles(page = 1, category = '', search = '') {
     if (search) url += `&search=${encodeURIComponent(search)}`;
 
     try {
-const response = await fetch(url);
-const rawData = await response.json();
-const data = JSON.parse(rawData.contents);
+        const response = await fetch(url);
+        const data = await response.json();
 
         // Отрисовка статей
         let html = '<div style="display: block; width: 100%;">';
@@ -87,6 +86,4 @@ function goToPage(page, category, search) {
 }
 
 // Запуск (можно передать название категории, например loadArticles(1, 'news'))
-
 document.addEventListener("DOMContentLoaded", () => loadArticles(1));
-
