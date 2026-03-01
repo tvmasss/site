@@ -5,7 +5,7 @@ const SITE_CONFIG = {
     
     // Ссылки для поиска
     searchPlaceholder: "Найти...",
-    apiSearchUrl: "https://bitmom.ru/handler.php"
+    apiSearchUrl: "https://wikido.online/handler.php"
 };
 
 // Функция для автоматического заполнения общих элементов (шапка, футер)
@@ -40,4 +40,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
 
