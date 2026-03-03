@@ -1,4 +1,4 @@
-const API_URL = 'https://wikido.online/handler.php'; 
+const API_URL = 'https://dolgres.ru/handler.php'; 
 
 async function loadArticles(page = 1, category = '', search = '') {
     const container = document.getElementById('articles-list-container');
@@ -87,6 +87,7 @@ function goToPage(page, category, search) {
 
 // Запуск (можно передать название категории, например loadArticles(1, 'news'))
 document.addEventListener("DOMContentLoaded", () => loadArticles(1));
+
 
 
 
