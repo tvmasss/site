@@ -5,7 +5,7 @@ const SITE_CONFIG = {
     
     // Ссылки для поиска
     searchPlaceholder: "Найти...",
-    apiSearchUrl: "http://g9869137.beget.tech/handler.php"
+    apiSearchUrl: "https://dolgres.ru/handler.php"
 };
 
 // Функция для автоматического заполнения общих элементов (шапка, футер)
@@ -38,4 +38,5 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         });
     }
+
 });
