@@ -13,6 +13,8 @@ function initSiteLayout() {
     // Заполняем название сайта (если есть элементы с классом site-name)
     document.querySelectorAll('.site-name').forEach(el => el.innerText = SITE_CONFIG.name);
     
+    document.querySelectorAll('.site-footer-text').forEach(el => el.innerText = SITE_CONFIG.footerText);
+
     // Заполняем логотип
     const logoImg = document.getElementById('site-logo');
     if (logoImg) logoImg.src = SITE_CONFIG.logo;
@@ -40,3 +42,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 });
+
