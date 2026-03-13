@@ -1,42 +1,42 @@
 [
     {
-        "title": "Привкус крови во рту – причины у женщин и мужчин, диагностика и лечение",
-        "url": "/health/privkus-krovi-vo-rtu",
-        "img": "https://cdn-icons-png.flaticon.com/128/5728/5728068.png"
-    },
-    {
-        "title": "Сыпь на коже – причины, симптомы, виды, диагностика и лечение",
-        "url": "/health/kozhnaya-syp",
-        "img": "https://cdn-icons-png.flaticon.com/128/2268/2268865.png"
-    },
-    {
-        "title": "Паратонзиллярный абсцесс – симптомы, причины, диагностика и лечение болезни у взрослых",
-        "url": "/health/paratonzillyarnyy-abscess",
-        "img": "https://cdn-icons-png.flaticon.com/128/2660/2660111.png"
-    },
-    {
-        "title": "Кавернит – симптомы, причины, виды, диагностика и лечение у мужчин",
-        "url": "/health/kavernit",
-        "img": "https://cdn-icons-png.flaticon.com/128/2309/2309128.png"
-    },
-    {
-        "title": "Гематогенный остеомиелит – причины, симптомы, диагностика и лечение",
-        "url": "/health/gematogennyy-osteomielit",
-        "img": "https://cdn-icons-png.flaticon.com/128/3066/3066996.png"
-    },
-    {
-        "title": "Гамартома легких – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
-        "url": "/health/gamartoma-legkih",
-        "img": "https://cdn-icons-png.flaticon.com/128/3654/3654698.png"
-    },
-    {
         "title": "Кариес – причины, симптомы, виды, диагностика и лечение заболевания зубов",
         "url": "/health/karies",
         "img": "https://cdn-icons-png.flaticon.com/128/2725/2725627.png"
     },
     {
-        "title": "Многоводие при беременности – причины, симптомы, диагностика и лечение",
-        "url": "/health/mnogovodie-pri-beremennosti",
-        "img": "https://cdn-icons-png.flaticon.com/128/2302/2302743.png"
+        "title": "Гастроэнтерит – причины, симптомы, диагностика и лечение",
+        "url": "/health/gastroenterit",
+        "img": "https://cdn-icons-png.flaticon.com/128/4033/4033828.png"
+    },
+    {
+        "title": "Фиброаденоматоз молочных желез – признаки, симптомы, причины, диагностика и лечение",
+        "url": "/health/fibroadenomatoz",
+        "img": "https://cdn-icons-png.flaticon.com/128/5433/5433389.png"
+    },
+    {
+        "title": "Шелушение кожи – причины, симптомы, виды, диагностика и лечение у взрослых",
+        "url": "/health/shelushenie-kozhi",
+        "img": "https://cdn-icons-png.flaticon.com/128/7305/7305189.png"
+    },
+    {
+        "title": "Предменструальный синдром (ПМС) – причины, симптомы, виды, диагностика и лечение заболевания",
+        "url": "/health/predmenstrualnyy-sindrom-pms",
+        "img": "https://cdn-icons-png.flaticon.com/128/5089/5089602.png"
+    },
+    {
+        "title": "Перегиб желчного пузыря – причины, симптомы, диагностика и лечение у взрослых",
+        "url": "/health/peregib-zhelchnogo-puzyrya",
+        "img": "https://cdn-icons-png.flaticon.com/128/4615/4615478.png"
+    },
+    {
+        "title": "Низкое давление (АД) – причины артериальной гипотензии, виды, диагностика и лечение",
+        "url": "/health/ponizhennoe-arterialnoe-davlenie",
+        "img": "https://cdn-icons-png.flaticon.com/128/3184/3184052.png"
+    },
+    {
+        "title": "Обструктивный бронхит – причины, симптомы, степени тяжести, диагностика и лечение заболевания у взрослых",
+        "url": "/health/obstruktivnyy-bronhit",
+        "img": "https://cdn-icons-png.flaticon.com/128/3654/3654698.png"
     }
 ]
