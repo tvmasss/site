@@ -1,42 +1,42 @@
 [
     {
-        "title": "Наружный отит – причины, симптомы, виды, диагностика и лечение заболевания",
-        "url": "/health/naruzhnyj-otit",
-        "img": "https://cdn-icons-png.flaticon.com/128/6598/6598353.png"
+        "title": "Учащенное дыхание (тахипноэ) – причины, симптомы, виды, диагностика и лечение у взрослых",
+        "url": "/health/uchaschennoe-dyhanie-tahipnoe",
+        "img": "https://cdn-icons-png.flaticon.com/128/3654/3654683.png"
     },
     {
-        "title": "Нейропатия (Невропатия) – причины, симптомы, виды, диагностика и лечение у взрослых",
-        "url": "/health/neyropatiya-nevropatiya",
-        "img": "https://cdn-icons-png.flaticon.com/128/6969/6969711.png"
-    },
-    {
-        "title": "Агалактия – симптомы, причины, диагностика и лечение заболевания у женщин",
-        "url": "/health/agalaktiya",
-        "img": "https://cdn-icons-png.flaticon.com/128/1521/1521126.png"
-    },
-    {
-        "title": "Холецистит – причины, симптомы, признаки, диагностика и лечение болезни",
-        "url": "/health/kholetsistit",
-        "img": "https://cdn-icons-png.flaticon.com/128/4615/4615478.png"
-    },
-    {
-        "title": "Ахалазия кардии – причины, симптомы, диагностика и лечение",
-        "url": "/health/ahalaziya-kardii",
+        "title": "Дуоденит – причины, симптомы, диагностика и лечение",
+        "url": "/health/duodenit",
         "img": "https://cdn-icons-png.flaticon.com/128/4702/4702197.png"
     },
     {
-        "title": "Боль в пояснице у женщин – причины, симптомы, виды, диагностика и лечение",
-        "url": "/health/bol-v-poyasnitse-u-zhenschin",
-        "img": "https://cdn-icons-png.flaticon.com/128/4702/4702258.png"
+        "title": "Полип эндометрия (полип в матке) – причины, симптомы, виды, диагностика и лечение заболевания у женщин",
+        "url": "/health/polipy-endometriya",
+        "img": "https://cdn-icons-png.flaticon.com/128/2309/2309130.png"
     },
     {
-        "title": "Хруст в суставах – причины симптома, виды, диагностика и лечение",
-        "url": "/health/hrust-v-sustavah",
-        "img": "https://cdn-icons-png.flaticon.com/128/4040/4040437.png"
+        "title": "Папилломатоз гортани – причины, симптомы, диагностика и лечение",
+        "url": "/health/papillomatoz-gortani",
+        "img": "https://cdn-icons-png.flaticon.com/128/5727/5727010.png"
     },
     {
-        "title": "Вздутие живота (Метеоризм) – причины, симптомы, виды, диагностика и лечение",
-        "url": "/health/vzdutie-zhivota-meteorizm",
-        "img": "https://cdn-icons-png.flaticon.com/128/6534/6534034.png"
+        "title": "Сухость во рту – причины, симптомы ксеростомии, виды, диагностика и лечение",
+        "url": "/health/suhost-vo-rtu",
+        "img": "https://cdn-icons-png.flaticon.com/128/5728/5728068.png"
+    },
+    {
+        "title": "Гепатоз – причины, симптомы, диагностика и лечение болезни у взрослых",
+        "url": "/health/gepatoz",
+        "img": "https://cdn-icons-png.flaticon.com/128/5793/5793623.png"
+    },
+    {
+        "title": "Деформация стоп – симптомы, причины, диагностика и лечение заболевания",
+        "url": "/health/deformatsiya-stop",
+        "img": "https://cdn-icons-png.flaticon.com/128/6450/6450231.png"
+    },
+    {
+        "title": "Мастопатия молочной железы – причины, симптомы, диагностика и лечение фиброзно-кистозной болезни",
+        "url": "/health/mastopatiya",
+        "img": "https://cdn-icons-png.flaticon.com/128/5433/5433389.png"
     }
 ]
