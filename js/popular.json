@@ -1,8 +1,42 @@
 [
-    { "title": "Как выбрать очиститель двигателя", "url": "/auto/102019/", "img": "/16.jpeg" },
-    { "title": "Рейтинг зимней резины 2024", "url": "/auto/102020/", "img": "/16.jpeg" },
-    { "title": "Секреты полировки своими руками", "url": "/auto/102021/", "img": "/16.jpeg" },
-    { "title": "Топ 5 присадок для дизеля", "url": "/auto/102022/", "img": "/16.jpeg" },
-    { "title": "Когда менять тормозные диски", "url": "/auto/102023/", "img": "/16.jpeg" },
-    { "title": "Как управлять вселенной", "url": "/auto/102024/", "img": "/16.jpeg" }
+    {
+        "title": "Привкус крови во рту – причины у женщин и мужчин, диагностика и лечение",
+        "url": "/health/privkus-krovi-vo-rtu",
+        "img": "https://cdn-icons-png.flaticon.com/128/5728/5728068.png"
+    },
+    {
+        "title": "Сыпь на коже – причины, симптомы, виды, диагностика и лечение",
+        "url": "/health/kozhnaya-syp",
+        "img": "https://cdn-icons-png.flaticon.com/128/2268/2268865.png"
+    },
+    {
+        "title": "Паратонзиллярный абсцесс – симптомы, причины, диагностика и лечение болезни у взрослых",
+        "url": "/health/paratonzillyarnyy-abscess",
+        "img": "https://cdn-icons-png.flaticon.com/128/2660/2660111.png"
+    },
+    {
+        "title": "Кавернит – симптомы, причины, виды, диагностика и лечение у мужчин",
+        "url": "/health/kavernit",
+        "img": "https://cdn-icons-png.flaticon.com/128/2309/2309128.png"
+    },
+    {
+        "title": "Гематогенный остеомиелит – причины, симптомы, диагностика и лечение",
+        "url": "/health/gematogennyy-osteomielit",
+        "img": "https://cdn-icons-png.flaticon.com/128/3066/3066996.png"
+    },
+    {
+        "title": "Гамартома легких – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+        "url": "/health/gamartoma-legkih",
+        "img": "https://cdn-icons-png.flaticon.com/128/3654/3654698.png"
+    },
+    {
+        "title": "Кариес – причины, симптомы, виды, диагностика и лечение заболевания зубов",
+        "url": "/health/karies",
+        "img": "https://cdn-icons-png.flaticon.com/128/2725/2725627.png"
+    },
+    {
+        "title": "Многоводие при беременности – причины, симптомы, диагностика и лечение",
+        "url": "/health/mnogovodie-pri-beremennosti",
+        "img": "https://cdn-icons-png.flaticon.com/128/2302/2302743.png"
+    }
 ]
