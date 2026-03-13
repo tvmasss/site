@@ -1,8 +1,42 @@
 [
-    { "title": "Новая статья 1", "url": "/auto/102019/", "img": "https://lifexak.github.io/img/117835/1.jpg" },
-    { "title": "Новая статья 2", "url": "/auto/102020/", "img": "https://lifexak.github.io/img/118412/1.jpg" },
-    { "title": "Новая статья 3", "url": "/auto/102021/", "img": "https://lifexak.github.io/img/128612/1.jpg" },
-    { "title": "Новая статья 4", "url": "/auto/102022/", "img": "https://lifexak.github.io/img/129900/1.jpg" },
-    { "title": "Новая статья 5", "url": "/auto/102023/", "img": "https://lifexak.github.io/img/130808/1.jpg" },
-    { "title": "Новая статья 6", "url": "/auto/102024/", "img": "https://lifexak.github.io/img/140909/1.jpg" }
+    {
+        "title": "Наружный отит – причины, симптомы, виды, диагностика и лечение заболевания",
+        "url": "/health/naruzhnyj-otit",
+        "img": "https://cdn-icons-png.flaticon.com/128/6598/6598353.png"
+    },
+    {
+        "title": "Нейропатия (Невропатия) – причины, симптомы, виды, диагностика и лечение у взрослых",
+        "url": "/health/neyropatiya-nevropatiya",
+        "img": "https://cdn-icons-png.flaticon.com/128/6969/6969711.png"
+    },
+    {
+        "title": "Агалактия – симптомы, причины, диагностика и лечение заболевания у женщин",
+        "url": "/health/agalaktiya",
+        "img": "https://cdn-icons-png.flaticon.com/128/1521/1521126.png"
+    },
+    {
+        "title": "Холецистит – причины, симптомы, признаки, диагностика и лечение болезни",
+        "url": "/health/kholetsistit",
+        "img": "https://cdn-icons-png.flaticon.com/128/4615/4615478.png"
+    },
+    {
+        "title": "Ахалазия кардии – причины, симптомы, диагностика и лечение",
+        "url": "/health/ahalaziya-kardii",
+        "img": "https://cdn-icons-png.flaticon.com/128/4702/4702197.png"
+    },
+    {
+        "title": "Боль в пояснице у женщин – причины, симптомы, виды, диагностика и лечение",
+        "url": "/health/bol-v-poyasnitse-u-zhenschin",
+        "img": "https://cdn-icons-png.flaticon.com/128/4702/4702258.png"
+    },
+    {
+        "title": "Хруст в суставах – причины симптома, виды, диагностика и лечение",
+        "url": "/health/hrust-v-sustavah",
+        "img": "https://cdn-icons-png.flaticon.com/128/4040/4040437.png"
+    },
+    {
+        "title": "Вздутие живота (Метеоризм) – причины, симптомы, виды, диагностика и лечение",
+        "url": "/health/vzdutie-zhivota-meteorizm",
+        "img": "https://cdn-icons-png.flaticon.com/128/6534/6534034.png"
+    }
 ]
