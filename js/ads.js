@@ -16,14 +16,14 @@ document.addEventListener("DOMContentLoaded", function() {
     const templates = {
         'h': (data) => `
             <div class="header-ad widget_media_image">
-                <a href="${data.link}">
+                <a href="${data.link}" target="_blank">
                     <img width="880" height="109" src="${data.img}" class="image" style="max-width: 100%; height: auto;" decoding="async">
                 </a>
             </div>`,
         's': (data) => `
             <div class="widget widget_media_image">
                 <h2 class="widget-title"><span>Реклама</span></h2>
-                <a href="${data.link}">
+                <a href="${data.link}" target="_blank">
                     <img width=100% height="250" src="${data.img}" class="image" style="max-width: 100%; height: auto;" decoding="async" loading="lazy">
                 </a>
             </div>`
