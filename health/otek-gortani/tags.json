@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bolezn-kalve",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Болезнь Кальве – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/frontit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Фронтит – причины, симптомы, виды, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/postmenopauza",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370272.png",
+            "title": "Постменопауза – что это, симптомы, признаки, диагностика и лечение у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/tuberkulez",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Туберкулез – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-pishchevoda",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Рак пищевода – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/placentarnaya-nedostatochnost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Плацентарная недостаточность – причины, симптомы, формы, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Отек гортани",
+            "url": "#"
+        },
+        {
+            "name": "Гортань",
+            "url": "#"
+        },
+        {
+            "name": "Затруднение дыхания",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Аллергия",
+            "url": "#"
+        },
+        {
+            "name": "ЛОР",
+            "url": "#"
+        },
+        {
+            "name": "Неотложная помощь",
+            "url": "#"
+        }
+    ]
+}

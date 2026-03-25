@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/allergicheskiy-konyunktivit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4383\/4383408.png",
+            "title": "Аллергический конъюнктивит – симптомы, причины, признаки, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-pyatochnoy-kosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом пяточной кости – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zastoinyi-prostatit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196525.png",
+            "title": "Застойный простатит у мужчин – симптомы, причины, виды, профилактика, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rezkoe-golovokruzhenie",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997801.png",
+            "title": "Резкое головокружение – причины симптома, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gnoynyy-bursit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4040\/4040437.png",
+            "title": "Гнойный бурсит – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kolorektalnyi-rak-tolstoy-kishki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196537.png",
+            "title": "Колоректальный рак (толстой кишки) – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Отит",
+            "url": "#"
+        },
+        {
+            "name": "Ухо",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление уха",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Боль в ухе",
+            "url": "#"
+        },
+        {
+            "name": "ЛОР",
+            "url": "#"
+        },
+        {
+            "name": "Антибиотики",
+            "url": "#"
+        }
+    ]
+}

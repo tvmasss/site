@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/vlazhnaya-gangrena",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Влажная гангрена – симптомы, причины, признаки, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sinusit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Синусит – симптомы, причины, признаки, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/trakheit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730035.png",
+            "title": "Трахеит – причины, симптомы, диагностика и способы лечения заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/aritmiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411269.png",
+            "title": "Аритмия – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/narusheniya-osanki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Нарушения осанки – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/insult",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4473\/4473751.png",
+            "title": "Инсульт – причины, признаки и симптомы, виды, диагностика, лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Острый бронхит",
+            "url": "#"
+        },
+        {
+            "name": "Бронхит",
+            "url": "#"
+        },
+        {
+            "name": "Кашель",
+            "url": "#"
+        },
+        {
+            "name": "ОРВИ",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Терапия",
+            "url": "#"
+        }
+    ]
+}

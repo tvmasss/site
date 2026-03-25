@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-v-myshtsakh",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3782\/3782011.png",
+            "title": "Боль в мышцах (миалгия) – симптомы, причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/uveit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Увеит – симптомы, причины, диагностика, профилактика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kataralnyi-gingivit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Катаральный гингивит – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vyvih-bedra",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Вывих бедра – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/abstsess-myagkikh-tkaney",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4003\/4003926.png",
+            "title": "Абсцесс мягких тканей – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/genitalnyy-gerpes",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6199\/6199036.png",
+            "title": "Генитальный герпес – симптомы, причины, диагностика и лечение у женщин и мужчин",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Острый назофарингит",
+            "url": "#"
+        },
+        {
+            "name": "Насморк",
+            "url": "#"
+        },
+        {
+            "name": "Боль в горле",
+            "url": "#"
+        },
+        {
+            "name": "ОРВИ",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "ЛОР",
+            "url": "#"
+        },
+        {
+            "name": "Простуда",
+            "url": "#"
+        }
+    ]
+}
