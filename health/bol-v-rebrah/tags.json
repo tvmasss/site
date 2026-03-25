@@ -1,0 +1,76 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-v-podborodke",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Боль в подбородке: причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/borodavka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7350\/7350880.png",
+            "title": "Бородавка – причины, симптомы, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/yazva-pishchevoda",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8825\/8825358.png",
+            "title": "Язва пищевода – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-prostaty",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8358\/8358497.png",
+            "title": "Рак простаты – симптомы, признаки, причины, диагностика и лечение у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/azoospermiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702325.png",
+            "title": "Азооспермия – симптомы, причины, виды, диагностика и лечение заболевания у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zud-v-glazakh",
+            "error": "Data not found"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Боль в ребрах",
+            "url": "#"
+        },
+        {
+            "name": "Ребра",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Травма",
+            "url": "#"
+        },
+        {
+            "name": "Невралгия",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        }
+    ]
+}

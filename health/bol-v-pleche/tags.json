@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-v-lopatke",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в лопатке – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-sheyki-bedra",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом шейки бедра – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/diskineziya-zhelchevyvodyashchih-putey",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615478.png",
+            "title": "Дискинезия желчевыводящих путей (ДЖВП) – причины, симптомы и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zaderzhka-mesyachnyh",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5089\/5089602.png",
+            "title": "Задержка месячных – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/pterigium",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Птеригиум глаза – симптомы, причины, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nasmork",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1497\/1497066.png",
+            "title": "Насморк – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Боль в плече",
+            "url": "#"
+        },
+        {
+            "name": "Плечо",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Невралгия",
+            "url": "#"
+        },
+        {
+            "name": "Травма",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/agalaktiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1521\/1521126.png",
+            "title": "Агалактия – симптомы, причины, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sudorogi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2773\/2773906.png",
+            "title": "Судороги – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sindrom-karpalnogo-kanala",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Синдром карпального канала – причины туннельного карпального синдрома запястья, симптомы и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kista-prostaty",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196525.png",
+            "title": "Киста простаты – симптомы, причины, виды, диагностика и лечение у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/uvulit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Увулит – симптомы, причины, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/avitaminoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7757\/7757815.png",
+            "title": "Авитаминоз – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Боль в скуле",
+            "url": "#"
+        },
+        {
+            "name": "Скула",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Стоматология",
+            "url": "#"
+        },
+        {
+            "name": "Синусит",
+            "url": "#"
+        },
+        {
+            "name": "Невралгия",
+            "url": "#"
+        }
+    ]
+}
