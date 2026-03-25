@@ -1,0 +1,80 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/krasnye-glaza",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5726\/5726953.png",
+            "title": "Красные глаза – причины покраснения глаз, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-parkinsona",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997940.png",
+            "title": "Болезнь Паркинсона – причины, симптомы, формы, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zud-v-glazakh",
+            "error": "Data not found"
+        },
+        {
+            "url": "\/health\/gormonozavisimyy-rak-molochnoy-zhelezy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5963\/5963190.png",
+            "title": "Гормонозависимый рак молочной железы – симптомы, причины, лечение и прогнозы выживаемости",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/anembrioniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2545\/2545998.png",
+            "title": "Анэмбриония – причины, симптомы, диагностика и лечение на ранних сроках беременности",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/abdominalnoe-ozhirenie",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4721\/4721131.png",
+            "title": "Абдоминальное ожирение – причины, симптомы, критерии, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гнойный мастит",
+            "url": "#"
+        },
+        {
+            "name": "Мастит",
+            "url": "#"
+        },
+        {
+            "name": "Молочная железа",
+            "url": "#"
+        },
+        {
+            "name": "Гной",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Хирургия",
+            "url": "#"
+        }
+    ]
+}

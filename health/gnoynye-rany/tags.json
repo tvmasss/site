@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/mochevoy-sindrom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1021\/1021576.png",
+            "title": "Мочевой синдром – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/lipoma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3299\/3299918.png",
+            "title": "Липома – причины, симптомы, диагностика и лечение болезни кожи у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ochagovaya-pnevmoniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Очаговая пневмония – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/genitalnyy-gerpes",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6199\/6199036.png",
+            "title": "Генитальный герпес – симптомы, причины, диагностика и лечение у женщин и мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vnutrennee-krovotechenie",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2420\/2420024.png",
+            "title": "Внутреннее кровотечение – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/podtekanie-okoloplodnyh-vod",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Подтекание околоплодных вод – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гнойные раны",
+            "url": "#"
+        },
+        {
+            "name": "Рана",
+            "url": "#"
+        },
+        {
+            "name": "Гной",
+            "url": "#"
+        },
+        {
+            "name": "Инфекция",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Хирургия",
+            "url": "#"
+        }
+    ]
+}

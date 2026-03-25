@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/atroficheskiy-gingivit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Атрофический гингивит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perikardit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4473\/4473770.png",
+            "title": "Перикардит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/artroz-plechevogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Артроз плечевого сустава – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-nogi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом ноги – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/khronicheskiy-appenditsit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6723\/6723236.png",
+            "title": "Хронический аппендицит – причины, симптомы, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ehssencialnaya-gipertenziya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4852\/4852400.png",
+            "title": "Эссенциальная гипертензия – причины, симптомы, стадии, диагностика и лечение гипертонической болезни",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Головная боль",
+            "url": "#"
+        },
+        {
+            "name": "Беременность",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Токсикоз",
+            "url": "#"
+        },
+        {
+            "name": "Мигрень",
+            "url": "#"
+        },
+        {
+            "name": "Здоровье беременной",
+            "url": "#"
+        },
+        {
+            "name": "Преэклампсия",
+            "url": "#"
+        }
+    ]
+}

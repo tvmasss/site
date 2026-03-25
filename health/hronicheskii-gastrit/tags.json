@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/parametrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Параметрит – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vyvikh-paltsa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6969\/6969770.png",
+            "title": "Вывих пальца – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kholodnyy-pot",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730080.png",
+            "title": "Холодный пот – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/prezhdevremennaya-eyakulyatsiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6350\/6350039.png",
+            "title": "Преждевременная эякуляция (семяизвержение) – причины, симптомы, диагностика и лечение заболевания у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/epilepsiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/9818\/9818305.png",
+            "title": "Эпилепсия – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rvota-s-krovyu",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2420\/2420024.png",
+            "title": "Рвота с кровью – причины гематемезиса, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Хронический гастрит",
+            "url": "#"
+        },
+        {
+            "name": "Гастрит",
+            "url": "#"
+        },
+        {
+            "name": "Желудок",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Диета",
+            "url": "#"
+        },
+        {
+            "name": "Гастроэнтерология",
+            "url": "#"
+        }
+    ]
+}
