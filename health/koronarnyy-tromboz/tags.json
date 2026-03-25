@@ -1,0 +1,80 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/sindrom-obstruktivnogo-apnoe-sna-soas",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1347\/1347665.png",
+            "title": "Синдром обструктивного апноэ сна (СОАС) – причины, симптомы, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gluhonemota-surdomutizm",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6598\/6598353.png",
+            "title": "Глухонемота – симптомы, причины, диагностика и лечение сурдомутизма у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-glazu",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Боль в глазах – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sernaya-probka",
+            "error": "Data not found"
+        },
+        {
+            "url": "\/health\/bol-v-spine-pri-beremennosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в спине при беременности – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-pod-levoj-lopatkoj",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль под левой лопаткой – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Коронарный тромбоз",
+            "url": "#"
+        },
+        {
+            "name": "Тромбоз",
+            "url": "#"
+        },
+        {
+            "name": "Сердце",
+            "url": "#"
+        },
+        {
+            "name": "Инфаркт",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Кардиология",
+            "url": "#"
+        },
+        {
+            "name": "Неотложная помощь",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/endokardit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4473\/4473770.png",
+            "title": "Эндокардит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zaderzhka-eyakulyacii",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6350\/6350039.png",
+            "title": "Задержка эякуляции – причины, симптомы, лечение и диагностика заболевания у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/khronicheskiy-appenditsit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6723\/6723236.png",
+            "title": "Хронический аппендицит – причины, симптомы, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vyvih-nadkolennika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Вывих надколенника – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/retrohorialnaya-gematoma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2420\/2420024.png",
+            "title": "Ретрохориальная гематома при беременности на ранних сроках – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-myshtsakh",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3782\/3782011.png",
+            "title": "Боль в мышцах (миалгия) – симптомы, причины, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Красное горло",
+            "url": "#"
+        },
+        {
+            "name": "Горло",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "ЛОР",
+            "url": "#"
+        },
+        {
+            "name": "Фарингит",
+            "url": "#"
+        },
+        {
+            "name": "Тонзиллит",
+            "url": "#"
+        }
+    ]
+}

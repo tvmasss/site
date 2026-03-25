@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/anizokoriya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309054.png",
+            "title": "Анизокория (зрачки разного размера): симптомы, причины и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/artroz-kolennogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Артроз коленного сустава – стадии, степени, признаки, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ortopnoe",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654683.png",
+            "title": "Ортопноэ – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-glotki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Рак глотки – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-sheyki-bedra",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом шейки бедра – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/faringit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Фарингит – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Крапивница",
+            "url": "#"
+        },
+        {
+            "name": "Кожа",
+            "url": "#"
+        },
+        {
+            "name": "Сыпь",
+            "url": "#"
+        },
+        {
+            "name": "Аллергия",
+            "url": "#"
+        },
+        {
+            "name": "Зуд",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Дерматология",
+            "url": "#"
+        }
+    ]
+}

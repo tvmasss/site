@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/polimorbidnost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4305\/4305260.png",
+            "title": "Полиморбидность – симптомы, причины, признаки и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-pahu-u-muzhchin",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8670\/8670740.png",
+            "title": "Боль в паху у мужчин: причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/borodavka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7350\/7350880.png",
+            "title": "Бородавка – причины, симптомы, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/disfagiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Дисфагия – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/deformiruyushchij-artroz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4040\/4040437.png",
+            "title": "Деформирующий артроз – степени, стадии, симптомы, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-kolennom-sustave",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Боль в коленном суставе – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Ларинготрахеит",
+            "url": "#"
+        },
+        {
+            "name": "Гортань",
+            "url": "#"
+        },
+        {
+            "name": "Трахея",
+            "url": "#"
+        },
+        {
+            "name": "Кашель",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "ЛОР",
+            "url": "#"
+        },
+        {
+            "name": "ОРВИ",
+            "url": "#"
+        }
+    ]
+}

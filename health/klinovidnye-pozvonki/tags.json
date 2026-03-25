@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/izzhoga",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7350\/7350864.png",
+            "title": "Изжога – симптомы, причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/adenoma-schitovidnoy-zhelezy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702192.png",
+            "title": "Аденома щитовидной железы – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/arakhnodaktiliya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309144.png",
+            "title": "Арахнодактилия – симптомы, причины, диагностика и лечение синдрома паучьих пальцев",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/giperpigmentatsiya-kozhi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5727\/5727010.png",
+            "title": "Гиперпигментация кожи – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gipoplaziya-yaichek",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615318.png",
+            "title": "Гипоплазия яичек у мужчин – причины, симптомы, виды, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/otek-mozga",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6969\/6969711.png",
+            "title": "Отек мозга – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Клиновидные позвонки",
+            "url": "#"
+        },
+        {
+            "name": "Позвоночник",
+            "url": "#"
+        },
+        {
+            "name": "Аномалия",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Врожденное",
+            "url": "#"
+        },
+        {
+            "name": "Сколиоз",
+            "url": "#"
+        }
+    ]
+}
