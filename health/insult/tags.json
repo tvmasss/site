@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/anoreksiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3999\/3999871.png",
+            "title": "Анорексия – что это, причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/leyomioma-matki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Лейомиома матки – причины, симптомы, виды, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/polip-uretry",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370277.png",
+            "title": "Полип уретры – симптомы, причины, лечение у женщин и мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/podtekanie-okoloplodnyh-vod",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Подтекание околоплодных вод – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/aritmiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411269.png",
+            "title": "Аритмия – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-poyasnitse-u-muzhchin",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в пояснице у мужчин – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Инсульт",
+            "url": "#"
+        },
+        {
+            "name": "Мозг",
+            "url": "#"
+        },
+        {
+            "name": "Сосуды",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Реабилитация",
+            "url": "#"
+        },
+        {
+            "name": "Неотложная помощь",
+            "url": "#"
+        }
+    ]
+}

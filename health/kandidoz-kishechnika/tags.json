@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/pedikulez",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2718\/2718006.png",
+            "title": "Педикулез – симптомы, причины, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ankiloz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702294.png",
+            "title": "Анкилоз – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perforaciya-zheludka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Перфорация желудка – причины, симптомы, диагностика и лечение заболевание у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/agalaktiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1521\/1521126.png",
+            "title": "Агалактия – симптомы, причины, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/furunkulez",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5727\/5727010.png",
+            "title": "Фурункулез – причины, симптомы и способы лечения заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/krasnye-glaza",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5726\/5726953.png",
+            "title": "Красные глаза – причины покраснения глаз, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Кандидоз кишечника",
+            "url": "#"
+        },
+        {
+            "name": "Кишечник",
+            "url": "#"
+        },
+        {
+            "name": "Грибок",
+            "url": "#"
+        },
+        {
+            "name": "Дисбактериоз",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гастроэнтерология",
+            "url": "#"
+        }
+    ]
+}
