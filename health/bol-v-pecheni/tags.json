@@ -1,0 +1,74 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bronkhit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Бронхит – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-skule",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309035.png",
+            "title": "Боль в скуле – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/adenoz-molochnoy-zhelezy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3554\/3554123.png",
+            "title": "Аденоз молочной железы – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-nogah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в ногах – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/otek-slizistoy-nosa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5759\/5759392.png",
+            "title": "Отек носа – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/lipomastiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5433\/5433389.png",
+            "title": "Липомастия – симптомы, причины, признаки и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Боль в печени",
+            "url": "#"
+        },
+        {
+            "name": "Печень",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гастроэнтерология",
+            "url": "#"
+        },
+        {
+            "name": "Гепатит",
+            "url": "#"
+        }
+    ]
+}

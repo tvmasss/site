@@ -1,0 +1,80 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/rak-pochki",
+            "error": "Data not found"
+        },
+        {
+            "url": "\/health\/paratonzillyarnyy-abscess",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Паратонзиллярный абсцесс – симптомы, причины, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/galaktoreya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8604\/8604378.png",
+            "title": "Галакторея – симптомы, причины, диагностик и лечение у женщин и мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/brucellez",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2913\/2913473.png",
+            "title": "Бруцеллез – симптомы, причины, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-shee-cervikalgiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220282.png",
+            "title": "Боль в шее (цервикалгия) – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/loktevoy-bursit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7924\/7924818.png",
+            "title": "Бурсит локтевого сустава – симптомы, причины, признаки, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Боль в пояснице у мужчин",
+            "url": "#"
+        },
+        {
+            "name": "Поясница",
+            "url": "#"
+        },
+        {
+            "name": "Мужское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Остеохондроз",
+            "url": "#"
+        },
+        {
+            "name": "Урология",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        }
+    ]
+}
