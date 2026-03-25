@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/otomikoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6598\/6598353.png",
+            "title": "Отомикоз – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/enterokolit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Энтероколит – причины, симптомы, диагностика и лечение заболевание у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kom-v-gorle",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Ком в горле – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nefroskleroz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Нефросклероз почек – причины, симптомы и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/artroz-kolennogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Артроз коленного сустава – стадии, степени, признаки, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-polovogo-chlena",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309128.png",
+            "title": "Рак полового члена – симптомы, признаки, диагностика и лечение пениса",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пневмония",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление легких",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Кашель",
+            "url": "#"
+        },
+        {
+            "name": "Температура",
+            "url": "#"
+        },
+        {
+            "name": "Терапия",
+            "url": "#"
+        },
+        {
+            "name": "Антибиотики",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/rvota-s-krovyu",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2420\/2420024.png",
+            "title": "Рвота с кровью – причины гематемезиса, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/dermoidnaya-kista-yaichnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Дермоидная киста яичника – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/balanit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309128.png",
+            "title": "Баланит у мужчин – симптомы, причины, признаки, виды, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/lekarstvennaya-nefropatiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Лекарственная нефропатия (поражение почек) – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/allergicheskiy-konyunktivit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4383\/4383408.png",
+            "title": "Аллергический конъюнктивит – симптомы, причины, признаки, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/displaziya-tazobedrennykh-sustavov",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Дисплазия тазобедренных суставов – симптомы, причины, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Покраснение кожи",
+            "url": "#"
+        },
+        {
+            "name": "Кожа",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гиперемия",
+            "url": "#"
+        },
+        {
+            "name": "Дерматит",
+            "url": "#"
+        },
+        {
+            "name": "Аллергия",
+            "url": "#"
+        },
+        {
+            "name": "Дерматология",
+            "url": "#"
+        }
+    ]
+}

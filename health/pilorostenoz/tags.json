@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/pryschi-na-lice",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411620.png",
+            "title": "Прыщи на лице – причины, симптомы, виды, диагностика и лечение у взсрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ostryj-nazofaringit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Острый назофарингит – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/otek-gortani",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Отек гортани – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/hronicheskiy-bronhit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Хронический бронхит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/lozhnyy-sustav",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Ложный сустав – симптомы, причины образования ложных суставов костей, лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/abscess-moshonki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4145\/4145572.png",
+            "title": "Абсцесс мошонки – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пилоростеноз",
+            "url": "#"
+        },
+        {
+            "name": "Желудок",
+            "url": "#"
+        },
+        {
+            "name": "Сужение привратника",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Рвота",
+            "url": "#"
+        },
+        {
+            "name": "Хирургия",
+            "url": "#"
+        },
+        {
+            "name": "Гастроэнтерология",
+            "url": "#"
+        }
+    ]
+}

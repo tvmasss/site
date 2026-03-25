@@ -1,0 +1,80 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/kista-meniskov",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Киста менисков – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-pochki",
+            "error": "Data not found"
+        },
+        {
+            "url": "\/health\/bursit-kolennogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Бурсит коленного сустава – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vospalenie-pridatkov-matki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Воспаление придатков у женщин – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/golovnaya-bol",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Головная боль – причины, симптомы, виды, диагностика и лечение | Kлиника",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/giperkeratoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6701\/6701657.png",
+            "title": "Гиперкератоз – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пиометра",
+            "url": "#"
+        },
+        {
+            "name": "Матка",
+            "url": "#"
+        },
+        {
+            "name": "Гной",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        },
+        {
+            "name": "Хирургия",
+            "url": "#"
+        }
+    ]
+}

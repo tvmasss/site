@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/patologicheskij-perelom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Патологический перелом – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/lozhnyy-sustav",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Ложный сустав – симптомы, причины образования ложных суставов костей, лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gipertireoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702192.png",
+            "title": "Гипертиреоз – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/dorsalgiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Дорсалгия – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/layuschiy-kashel",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730035.png",
+            "title": "Лающий кашель – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-grudnogo-otdela-pozvonochnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом грудного отдела позвоночника – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Перелом свода черепа",
+            "url": "#"
+        },
+        {
+            "name": "Череп",
+            "url": "#"
+        },
+        {
+            "name": "Перелом",
+            "url": "#"
+        },
+        {
+            "name": "Травма",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Нейрохирургия",
+            "url": "#"
+        },
+        {
+            "name": "ЧМТ",
+            "url": "#"
+        }
+    ]
+}
