@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/silikoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Силикоз – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/koloboma-glaza",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Колобома глаза – симптомы, причины, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/artropatiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4040\/4040437.png",
+            "title": "Артропатия – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zheltye-pyatna-na-kozhe",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5727\/5727010.png",
+            "title": "Желтые пятна на коже – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/oteki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5759\/5759462.png",
+            "title": "Отеки – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zhzhenie-kozhi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6701\/6701657.png",
+            "title": "Жжение кожи – причины симптома, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гемианопсия",
+            "url": "#"
+        },
+        {
+            "name": "Зрение",
+            "url": "#"
+        },
+        {
+            "name": "Выпадение полей зрения",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Инсульт",
+            "url": "#"
+        },
+        {
+            "name": "Глаза",
+            "url": "#"
+        }
+    ]
+}

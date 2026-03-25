@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/hronicheskii-gastrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Хронический гастрит – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/fibroadenomatoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5433\/5433389.png",
+            "title": "Фиброаденоматоз молочных желез – признаки, симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zyabkost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3782\/3782096.png",
+            "title": "Зябкость – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gnoynyy-mastit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8604\/8604369.png",
+            "title": "Гнойный мастит – симптомы, признаки, причины возникновения, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-sheyki-matki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8358\/8358476.png",
+            "title": "Рак шейки матки – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gepatit-g",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5793\/5793623.png",
+            "title": "Гепатит G – причины, симптомы, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гиповитаминоз",
+            "url": "#"
+        },
+        {
+            "name": "Витамины",
+            "url": "#"
+        },
+        {
+            "name": "Авитаминоз",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Питание",
+            "url": "#"
+        },
+        {
+            "name": "Здоровье",
+            "url": "#"
+        }
+    ]
+}

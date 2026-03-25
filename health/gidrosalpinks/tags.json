@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/zhirnye-volosy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6768\/6768275.png",
+            "title": "Жирные волосы – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/miozit-myshc-spiny",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Миозит мышц спины – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bryushnoj-tif",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8089\/8089304.png",
+            "title": "Брюшной тиф – симптомы, причины, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sindrom-toksicheskogo-shoka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3782\/3782100.png",
+            "title": "Синдром токсического шока – что это, симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/impulsivnost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7095\/7095968.png",
+            "title": "Импульсивность – причины импульсивного поведения, симптомы, признаки, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/diareya-ponos",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730042.png",
+            "title": "Диарея (понос) – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гидросальпинкс",
+            "url": "#"
+        },
+        {
+            "name": "Маточные трубы",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        },
+        {
+            "name": "Бесплодие",
+            "url": "#"
+        },
+        {
+            "name": "Жидкость",
+            "url": "#"
+        }
+    ]
+}

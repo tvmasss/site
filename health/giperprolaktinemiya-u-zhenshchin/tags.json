@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/uhudshenie-zreniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1806\/1806326.png",
+            "title": "👁️ Ухудшение зрения – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vykidysh-na-rannih-srokah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4776\/4776169.png",
+            "title": "Выкидыш на ранних сроках беременности – симптомы, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/predmenstrualnyy-sindrom-pms",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5089\/5089602.png",
+            "title": "Предменструальный синдром (ПМС) – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/endometrioz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7077\/7077876.png",
+            "title": "Эндометриоз – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/toshnota",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730148.png",
+            "title": "Тошнота – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/spermatocele",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615318.png",
+            "title": "Сперматоцеле – симптомы, причины, виды, диагностика и лечение у мужчин",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гиперпролактинемия у женщин",
+            "url": "#"
+        },
+        {
+            "name": "Пролактин",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Эндокринология",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/polipy-kishechnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Полипы кишечника – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/podkovoobraznaya-pochka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2750\/2750412.png",
+            "title": "Подковообразная почка – симптомы, причины, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kandidoz-polosti-rta",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728068.png",
+            "title": "Кандидоз полости рта – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/otek-mozga",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6969\/6969711.png",
+            "title": "Отек мозга – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gipertireoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702192.png",
+            "title": "Гипертиреоз – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-bekhtereva",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Болезнь Бехтерева – причины, симптомы, диагностика и лечение анкилозирующего спондилоартрита",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гломерулонефрит",
+            "url": "#"
+        },
+        {
+            "name": "Почки",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Нефрология",
+            "url": "#"
+        },
+        {
+            "name": "Иммунное",
+            "url": "#"
+        },
+        {
+            "name": "Отеки",
+            "url": "#"
+        }
+    ]
+}

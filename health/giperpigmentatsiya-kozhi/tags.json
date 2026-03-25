@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/chesotka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2718\/2718043.png",
+            "title": "Чесотка – причины, симптомы и способы лечения заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/osiplost-golosa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Осиплость голоса – причины симптома, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/iskrivlenie-pozvonochnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2222\/2222615.png",
+            "title": "Искривление позвоночника – симптомы, причины, диагностика и методы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/giperplaziya-endometriya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Гиперплазия эндометрия – причины, симптомы, виды, диагностика и лечение гиперпластического процесса эндометрия",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом – причины, симптомы, диагностика и лечение перелома у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/divertikulez-kishechnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Дивертикулез кишечника – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гиперпигментация",
+            "url": "#"
+        },
+        {
+            "name": "Кожа",
+            "url": "#"
+        },
+        {
+            "name": "Пигментные пятна",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Дерматология",
+            "url": "#"
+        },
+        {
+            "name": "Меланин",
+            "url": "#"
+        },
+        {
+            "name": "Косметология",
+            "url": "#"
+        }
+    ]
+}

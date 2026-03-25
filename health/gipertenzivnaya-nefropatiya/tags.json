@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/osteosarkoma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Остеосаркома – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gastrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Гастрит – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/dermatit-vek",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2824\/2824795.png",
+            "title": "Дерматит век – симптомы, причины, диагностика и способы лечения заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/emfizema-legkih",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Эмфизема легких – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/polimorbidnost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4305\/4305260.png",
+            "title": "Полиморбидность – симптомы, причины, признаки и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sindrom-kubitalnogo-kanala",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Синдром кубитального канала – лечение, симптомы, причины кубитального синдрома",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гипертоническая нефропатия",
+            "url": "#"
+        },
+        {
+            "name": "Почки",
+            "url": "#"
+        },
+        {
+            "name": "Давление",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Нефрология",
+            "url": "#"
+        },
+        {
+            "name": "Кардиология",
+            "url": "#"
+        }
+    ]
+}

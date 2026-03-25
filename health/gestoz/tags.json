@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/sindrom-kubitalnogo-kanala",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Синдром кубитального канала – лечение, симптомы, причины кубитального синдрома",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-pod-kolenom-szadi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Боль под коленом сзади – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/temperatura",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3063\/3063137.png",
+            "title": "🌡️ Температура тела: причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/molochnica-pri-beremennosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2268\/2268903.png",
+            "title": "Молочница при беременности – причины, симптомы, диагностика и лечение (1, 2, 3 триместры)",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-rebrah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220324.png",
+            "title": "🤕 Боль в ребрах: причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/tyazhest-v-nogah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Тяжесть в ногах – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гестоз",
+            "url": "#"
+        },
+        {
+            "name": "Беременность",
+            "url": "#"
+        },
+        {
+            "name": "Осложнение",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Давление",
+            "url": "#"
+        },
+        {
+            "name": "Отеки",
+            "url": "#"
+        },
+        {
+            "name": "Преэклампсия",
+            "url": "#"
+        }
+    ]
+}
