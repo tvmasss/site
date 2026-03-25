@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/slabost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8212\/8212763.png",
+            "title": "Слабость – причины симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/akne",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411620.png",
+            "title": "Акне – причины, симптомы и способы лечения угрей у взрослых и подростков",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ostryy-kholetsistit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615478.png",
+            "title": "Острый холецистит – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bessonnica",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1347\/1347665.png",
+            "title": "Бессонница – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/leykoplakiya-vulvy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7077\/7077853.png",
+            "title": "Лейкоплакия вульвы – что это, причины, симптомы заболевания, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-nogah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в ногах – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Боль в тазобедренном суставе",
+            "url": "#"
+        },
+        {
+            "name": "ТБС",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Артроз",
+            "url": "#"
+        },
+        {
+            "name": "Травма",
+            "url": "#"
+        }
+    ]
+}
