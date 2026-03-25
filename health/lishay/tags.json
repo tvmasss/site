@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/kholetsistit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615478.png",
+            "title": "Холецистит – причины, симптомы, признаки, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/androgennyy-deficit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6199\/6199245.png",
+            "title": "Андрогенный дефицит у мужчин – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/daltonizm",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4126\/4126699.png",
+            "title": "Дальтонизм – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/dermoidnaya-kista-yaichnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Дермоидная киста яичника – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/cistocele",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309138.png",
+            "title": "Цистоцеле – причины, симптомы, степени, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vrozhdennyy-vyvih-bedra",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Врожденный вывих бедра – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Лишай",
+            "url": "#"
+        },
+        {
+            "name": "Кожа",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Дерматология",
+            "url": "#"
+        },
+        {
+            "name": "Грибок",
+            "url": "#"
+        },
+        {
+            "name": "Вирус",
+            "url": "#"
+        }
+    ]
+}

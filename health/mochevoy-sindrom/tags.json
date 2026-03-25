@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/gigroma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Гигрома – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-shee-cervikalgiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220282.png",
+            "title": "Боль в шее (цервикалгия) – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/dorsopatii",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Дорсопатия - причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kataralnyi-gingivit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Катаральный гингивит – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vodyanka-yaichka-gidrotsele",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615318.png",
+            "title": "Водянка яичка у мужчин – симптомы, причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/slezotechenie",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8212\/8212754.png",
+            "title": "Слезотечение – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мочевой синдром",
+            "url": "#"
+        },
+        {
+            "name": "Моча",
+            "url": "#"
+        },
+        {
+            "name": "Анализы",
+            "url": "#"
+        },
+        {
+            "name": "Почки",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Нефрология",
+            "url": "#"
+        }
+    ]
+}

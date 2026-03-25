@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/cistocele",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309138.png",
+            "title": "Цистоцеле – причины, симптомы, степени, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/agalaktiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1521\/1521126.png",
+            "title": "Агалактия – симптомы, причины, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-pochkah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2750\/2750412.png",
+            "title": "Боль в почках – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-nadkolennika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом надколенника – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-nizhe-poyasnitsy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль ниже поясницы – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/fibroma-kozhi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3299\/3299918.png",
+            "title": "Фиброма кожи – симптомы, причины, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Муковисцидоз",
+            "url": "#"
+        },
+        {
+            "name": "Генетика",
+            "url": "#"
+        },
+        {
+            "name": "Легкие",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Наследственное",
+            "url": "#"
+        },
+        {
+            "name": "Пищеварение",
+            "url": "#"
+        },
+        {
+            "name": "Респираторное",
+            "url": "#"
+        }
+    ]
+}

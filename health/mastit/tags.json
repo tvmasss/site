@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/osteopeniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Остеопения – симптомы, причины, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/artropatiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4040\/4040437.png",
+            "title": "Артропатия – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gamartoma-legkih",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Гамартома легких – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/paronihiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1658\/1658219.png",
+            "title": "Паронихия – симптомы, причины, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nefriticheskij-sindrom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Нефритический синдром – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-grudi-sprava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654712.png",
+            "title": "Боль в груди справа – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Мастит",
+            "url": "#"
+        },
+        {
+            "name": "Молочная железа",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Лактация",
+            "url": "#"
+        }
+    ]
+}
