@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/vnutrisustavnoy-perelom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Внутрисуставной перелом – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/lozhnaya-beremennost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Ложная беременность – причины, симптомы, диагностика и лечение у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vaginalnyy-kandidoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2268\/2268903.png",
+            "title": "Вагинальный кандидоз (молочница) – причины, симптомы, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/deformatsiya-grudnoy-kletki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220324.png",
+            "title": "Деформация грудной клетки – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bursit-stopy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6450\/6450231.png",
+            "title": "Бурсит стопы – симптомы, причины, признаки, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-yaichnike",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Боль в яичнике – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Боль в левом подреберье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "ЖКТ",
+            "url": "#"
+        },
+        {
+            "name": "Поджелудочная железа",
+            "url": "#"
+        },
+        {
+            "name": "Селезенка",
+            "url": "#"
+        },
+        {
+            "name": "Желудок",
+            "url": "#"
+        },
+        {
+            "name": "Гастроэнтерология",
+            "url": "#"
+        }
+    ]
+}

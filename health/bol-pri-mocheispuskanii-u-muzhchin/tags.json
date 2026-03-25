@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-v-gube",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309060.png",
+            "title": "Боль в губе – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/polikistoz-yaichnikov",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Поликистоз яичников (СПКЯ) – причины, симптомы, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vyvih-predplechya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Вывих предплечья – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gemorroy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411561.png",
+            "title": "Геморрой – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/varikocele",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615318.png",
+            "title": "Варикоцеле – симптомы, причины, виды, диагностика и лечение у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bespokoystvo",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997910.png",
+            "title": "Беспокойство – симптомы, причины, виды, диагностика и лечение тревожности у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Боль при мочеиспускании",
+            "url": "#"
+        },
+        {
+            "name": "Мужское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Урология",
+            "url": "#"
+        },
+        {
+            "name": "Уретрит",
+            "url": "#"
+        },
+        {
+            "name": "Простатит",
+            "url": "#"
+        }
+    ]
+}
