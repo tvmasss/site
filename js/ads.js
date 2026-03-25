@@ -7,9 +7,9 @@ document.addEventListener("DOMContentLoaded", function() {
         'banner3': { type: 'h', link: '/promo3', img: 'https://demo.wpenjoy.com/enjoylife/wp-content/uploads/sites/10/2021/05/content-ad6.png' },
 
         // Квадратные блоки
-        'bansquare1':   { type: 's', link: '/sale1',  img: 'https://demo.wpenjoy.com/enjoylife/wp-content/uploads/sites/10/2021/05/300x250-300x250.png' },
-        'bansquare2':   { type: 's', link: '/sale2',  img: 'https://demo.wpenjoy.com/enjoylife/wp-content/uploads/sites/10/2021/05/300x250-2-300x250.png' },
-        'bansquare3':   { type: 's', link: '/sale3',  img: 'https://demo.wpenjoy.com/enjoylife/wp-content/uploads/sites/10/2021/05/300x250-3-300x250.png' }
+        'bansquare1':   { type: 's', link: '/sale1',  img: '/img/ad1.jpg' },
+        'bansquare2':   { type: 's', link: '/sale2',  img: '/img/ad2.jpg' },
+        'bansquare3':   { type: 's', link: '/sale3',  img: '/img/ad3.jpg' }
     };
 
     // Шаблоны разметки
