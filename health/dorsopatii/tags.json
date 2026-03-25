@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-vo-rtu",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728068.png",
+            "title": "Боль во рту – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/pankreatit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5278\/5278579.png",
+            "title": "Панкреатит – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ekzoftalm",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Экзофтальм (пучеглазие) – симптомы, причины, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/polipy-cervikalnogo-kanala",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196548.png",
+            "title": "Полип цервикального канала (шейки матки) – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/mehanicheskaya-zheltuha",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615478.png",
+            "title": "Механическая желтуха – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/golovnaya-bol-pri-beremennosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Головная боль при беременности 1, 2 и 3 триместра: причины и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Дорсопатии",
+            "url": "#"
+        },
+        {
+            "name": "Спина",
+            "url": "#"
+        },
+        {
+            "name": "Позвоночник",
+            "url": "#"
+        },
+        {
+            "name": "Боль",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        }
+    ]
+}

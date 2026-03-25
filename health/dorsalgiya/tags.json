@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/molochnitsa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2268\/2268903.png",
+            "title": "Молочница – причины, симптомы, признаки, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gemorroy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411561.png",
+            "title": "Геморрой – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/eklampsiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Эклампсия у беременных: симптомы, причины и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sindrom-razdrazhennogo-kishechnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Синдром раздраженного кишечника – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/izzhoga-pri-beremennosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7350\/7350864.png",
+            "title": "Изжога при беременности – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/razryv-meniska",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Разрыв мениска – симптомы, признаки, степени и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Дорсалгия",
+            "url": "#"
+        },
+        {
+            "name": "Боль в спине",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Позвоночник",
+            "url": "#"
+        }
+    ]
+}

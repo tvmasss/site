@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/laktostaz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8604\/8604369.png",
+            "title": "Лактостаз – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/khronicheskaya-pnevmoniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Хроническая пневмония – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/recessiya-desny",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Рецессия десны – причины, симптомы, степени, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-oblasti-polovyh-gub",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7077\/7077853.png",
+            "title": "Боль в области половых губ – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gonoreya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6199\/6199036.png",
+            "title": "Гонорея (триппер) – симптомы, причины, признаки, диагностика и лечение заболевания у мужчин и женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/balanit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309128.png",
+            "title": "Баланит у мужчин – симптомы, причины, признаки, виды, диагностика и лечение болезни",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Деменция",
+            "url": "#"
+        },
+        {
+            "name": "Память",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Альцгеймер",
+            "url": "#"
+        },
+        {
+            "name": "Старение",
+            "url": "#"
+        },
+        {
+            "name": "Уход",
+            "url": "#"
+        }
+    ]
+}

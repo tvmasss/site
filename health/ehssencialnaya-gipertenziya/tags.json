@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/osteoskleroz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Остеосклероз – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ponizhennoe-arterialnoe-davlenie",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3184\/3184052.png",
+            "title": "Низкое давление (АД) – причины артериальной гипотензии, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/oleogranulema-polovogo-chlena",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309128.png",
+            "title": "Олеогранулема полового члена – причины, симптомы, виды, диагностика и лечение заболевания у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/disfunktsiya-yaichnikov",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370301.png",
+            "title": "Дисфункция яичников – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gemangiomy-pozvonochnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Гемангиома позвоночника – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nefriticheskij-sindrom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Нефритический синдром – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Эссенциальная гипертензия",
+            "url": "#"
+        },
+        {
+            "name": "Гипертония",
+            "url": "#"
+        },
+        {
+            "name": "Давление",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Кардиология",
+            "url": "#"
+        },
+        {
+            "name": "Первичная",
+            "url": "#"
+        },
+        {
+            "name": "Хроническая",
+            "url": "#"
+        }
+    ]
+}

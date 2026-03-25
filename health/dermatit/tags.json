@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/osteohondroma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Остеохондрома – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/alkogolnaya-nefropatiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1856\/1856790.png",
+            "title": "Алкогольная нефропатия – причины, симптомы, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-palcah-ruk",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309144.png",
+            "title": "Боль в пальцах рук – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/autoagressiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7095\/7095968.png",
+            "title": "Аутоагрессия – причины, симптомы, виды, диагностика и лечение заболевания у взрослых и подростков",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vyvih-plecha",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Вывих плеча – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/miopiya-blizorukost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937354.png",
+            "title": "Миопия (близорукость) – причины, симптомы, степени, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Дерматит",
+            "url": "#"
+        },
+        {
+            "name": "Кожа",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Аллергия",
+            "url": "#"
+        },
+        {
+            "name": "Дерматология",
+            "url": "#"
+        },
+        {
+            "name": "Зуд",
+            "url": "#"
+        }
+    ]
+}

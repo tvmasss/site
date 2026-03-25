@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/otkrytyj-perelom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Открытый перелом – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/keratoma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5727\/5727010.png",
+            "title": "Кератома – причины, симптомы и способы лечения болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sukhoy-kashel",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730035.png",
+            "title": "Сухой кашель – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/hologennaya-diareya-malabsorbciya-zhelchnyh-kislot",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730042.png",
+            "title": "Хологенная диарея – причины, симптомы, диагностика и лечение мальабсорбции желчных кислот",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kista-semennogo-kanatika-funikulocele",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615318.png",
+            "title": "Киста семенного канатика (фуникулоцеле) – причины, симптомы, диагностика и лечение заболевания у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ureaplazmoz-u-muzhchin",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411918.png",
+            "title": "Уреаплазмоз у мужчин – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Депрессия",
+            "url": "#"
+        },
+        {
+            "name": "Настроение",
+            "url": "#"
+        },
+        {
+            "name": "Психика",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Психотерапия",
+            "url": "#"
+        },
+        {
+            "name": "Антидепрессанты",
+            "url": "#"
+        }
+    ]
+}

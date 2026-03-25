@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-pri-povorote-golovy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Боль при повороте головы – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-oblasti-lba",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Боль в области лба – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/giperprolaktinemiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7407\/7407398.png",
+            "title": "Гиперпролактинемия – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nalyet-na-yazyke",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2774\/2774022.png",
+            "title": "Налет на языке – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/osteosarkoma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Остеосаркома – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/razdrazhitelnost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997910.png",
+            "title": "Раздражительность – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Дисфагия",
+            "url": "#"
+        },
+        {
+            "name": "Затруднение глотания",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гастроэнтерология",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Пищевод",
+            "url": "#"
+        }
+    ]
+}
