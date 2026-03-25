@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-v-poyasnice",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в пояснице – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-peyroni",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309128.png",
+            "title": "Болезнь Пейрони – симптомы, причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/otit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6598\/6598353.png",
+            "title": "Отит – что это, причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/koronarnyy-tromboz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4473\/4473751.png",
+            "title": "Коронарный тромбоз – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-parkinsona",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997940.png",
+            "title": "Болезнь Паркинсона – причины, симптомы, формы, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kista-meniskov",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Киста менисков – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Атеросклероз",
+            "url": "#"
+        },
+        {
+            "name": "Сосуды",
+            "url": "#"
+        },
+        {
+            "name": "Холестерин",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Кардиология",
+            "url": "#"
+        },
+        {
+            "name": "Бляшки",
+            "url": "#"
+        },
+        {
+            "name": "Профилактика",
+            "url": "#"
+        }
+    ]
+}

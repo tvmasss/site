@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/zubnoi-kamen",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3501\/3501223.png",
+            "title": "Зубной камень – причины, симптомы, диагностика и удаление зубного камня",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-glotki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Рак глотки – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/splenomegaliya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702268.png",
+            "title": "Спленомегалия – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-parkinsona",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997940.png",
+            "title": "Болезнь Паркинсона – причины, симптомы, формы, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vrozhdennyy-vyvih-bedra",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Врожденный вывих бедра – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/simfizit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Симфизит при беременности – симптомы, причины и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Болезнь Бехтерева",
+            "url": "#"
+        },
+        {
+            "name": "Анкилозирующий спондилоартрит",
+            "url": "#"
+        },
+        {
+            "name": "Позвоночник",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Ревматология",
+            "url": "#"
+        },
+        {
+            "name": "Аутоиммунное",
+            "url": "#"
+        }
+    ]
+}

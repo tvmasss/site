@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/legochnaya-gipertenziya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4473\/4473742.png",
+            "title": "Легочная гипертензия – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/polikistoz-pochek",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Поликистоз почек – симптомы, причины поликистозной болезни почек, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ostryy-rinit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Острый ринит – причины, симптомы, виды, диагностика и лечение взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/geograficheskiy-yazyk-glossit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2774\/2774022.png",
+            "title": "Географический язык – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zubnaya-bol",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2400\/2400874.png",
+            "title": "Зубная боль – симптомы, причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/episklerit-glaza",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Эписклерит глаза – причины, симптомы, признаки, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Астигматизм",
+            "url": "#"
+        },
+        {
+            "name": "Зрение",
+            "url": "#"
+        },
+        {
+            "name": "Глаза",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Очки",
+            "url": "#"
+        },
+        {
+            "name": "Линзы",
+            "url": "#"
+        },
+        {
+            "name": "Лазерная коррекция",
+            "url": "#"
+        }
+    ]
+}
