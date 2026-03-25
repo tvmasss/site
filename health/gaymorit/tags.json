@@ -1,0 +1,74 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/sukhoy-kashel",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730035.png",
+            "title": "Сухой кашель – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/urosepsis",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Уросепсис – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/atroficheskiy-kolpit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615522.png",
+            "title": "Атрофический кольпит (вагинит) – причины, симптомы, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/barotravma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2547\/2547868.png",
+            "title": "Баротравма – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-osguda-shlattera",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Болезнь Шляттера – причины, симптомы, диагностика, лечение и профилактика",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/psoriaz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2268\/2268859.png",
+            "title": "Псориаз – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гайморит",
+            "url": "#"
+        },
+        {
+            "name": "Синусит",
+            "url": "#"
+        },
+        {
+            "name": "Верхнечелюстная пазуха",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "ЛОР",
+            "url": "#"
+        }
+    ]
+}

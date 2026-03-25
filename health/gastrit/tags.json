@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/hronicheskij-parodontit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Хронический пародонтит – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/antralnyi-gastrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Антральный гастрит – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/abscess-predstatelnoj-zhelezy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196525.png",
+            "title": "Абсцесс предстательной железы – симптомы, причины, диагностика и лечение болезни у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/odyshka-dispnoeh",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654683.png",
+            "title": "Одышка (диспноэ) – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bursit-plechevogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Бурсит плечевого сустава – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/leykoplakiya-vulvy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7077\/7077853.png",
+            "title": "Лейкоплакия вульвы – что это, причины, симптомы заболевания, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Гастрит",
+            "url": "#"
+        },
+        {
+            "name": "Желудок",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Диета",
+            "url": "#"
+        },
+        {
+            "name": "Хеликобактер",
+            "url": "#"
+        },
+        {
+            "name": "Гастроэнтерология",
+            "url": "#"
+        }
+    ]
+}

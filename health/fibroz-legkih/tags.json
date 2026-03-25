@@ -1,0 +1,76 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/dyhatelnaya-nedostatochnost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654717.png",
+            "title": "Дыхательная недостаточность – причины, симптомы, виды, диагностика и лечение заболевания у взрослого",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/impidzhment-sindrom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Импиджмент-синдром – симптомы, причины, диагностика и методы лечения заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nekrotiziruyushchiy-fasciit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6136\/6136405.png",
+            "title": "Некротизирующий фасциит – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/pingvekula-glaza",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Пингвекула глаза – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nefrosklerоз",
+            "error": "Data not found"
+        },
+        {
+            "url": "\/health\/bol-v-oblasti-pupka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6534\/6534031.png",
+            "title": "Боль в области пупка – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Фиброз легких",
+            "url": "#"
+        },
+        {
+            "name": "Легкие",
+            "url": "#"
+        },
+        {
+            "name": "Рубцы",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Пульмонология",
+            "url": "#"
+        },
+        {
+            "name": "Одышка",
+            "url": "#"
+        }
+    ]
+}

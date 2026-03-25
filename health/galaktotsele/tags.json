@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/catatrauma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/9818\/9818299.png",
+            "title": "Кататравма – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gnilostnaya-dispepsiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Гнилостная диспепсия – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/diplopiya-dvoenie-v-glazakh",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Диплопия (двоение в глазах) – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zheltye-glaza",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "👁️ Желтые глаза: причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ostryy-rinit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Острый ринит – причины, симптомы, виды, диагностика и лечение взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/adenoma-predstatelnoj-zhelezy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196525.png",
+            "title": "Аденома простаты (предстательной железы) – причины, симптомы, виды, диагностика и лечение заболевания у мужчин",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Галактоцеле",
+            "url": "#"
+        },
+        {
+            "name": "Молочная железа",
+            "url": "#"
+        },
+        {
+            "name": "Киста",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Лактация",
+            "url": "#"
+        },
+        {
+            "name": "Мастопатия",
+            "url": "#"
+        }
+    ]
+}

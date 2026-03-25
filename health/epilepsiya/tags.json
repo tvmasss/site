@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/nochnoj-kashel",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730035.png",
+            "title": "Ночной кашель – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-glazu",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Боль в глазах – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-zheludka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Рак желудка – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/abstsess-molochnoy-zhelezy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8604\/8604369.png",
+            "title": "Абсцесс молочной железы – симптомы, причины, признаки и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gematoma-myagkikh-tkaney",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2420\/2420024.png",
+            "title": "Гематома мягких тканей – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/osteomalyaciya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Остеомаляция – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Эпилепсия",
+            "url": "#"
+        },
+        {
+            "name": "Судороги",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Припадки",
+            "url": "#"
+        },
+        {
+            "name": "ЭЭГ",
+            "url": "#"
+        },
+        {
+            "name": "Противоэпилептические",
+            "url": "#"
+        }
+    ]
+}

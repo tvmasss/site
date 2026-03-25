@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-v-skule",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309035.png",
+            "title": "Боль в скуле – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/uretrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370277.png",
+            "title": "Уретрит – причины, симптомы, признаки, виды, диагностика и лечение у женщин и мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sudorogi-v-nogah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2773\/2773906.png",
+            "title": "Судороги в ногах – причины симптома, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/lipomastiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5433\/5433389.png",
+            "title": "Липомастия – симптомы, причины, признаки и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/divertikulez-kishechnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Дивертикулез кишечника – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gidronefroz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2750\/2750412.png",
+            "title": "Гидронефроз почки – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Эндокардит",
+            "url": "#"
+        },
+        {
+            "name": "Сердце",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление",
+            "url": "#"
+        },
+        {
+            "name": "Инфекция",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Кардиология",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/panicheskie-ataki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6851\/6851392.png",
+            "title": "Панические атаки – симптомы, причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/razryv-setchatki-glaza",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Разрыв сетчатки глаза – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-lopatki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом лопатки – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/dobrokachestvennye-opuholi-molochnyh-zhelez",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5433\/5433389.png",
+            "title": "Доброкачественные опухоли молочных желез – симптомы, причины, диагностика, лечение и профилактика",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rinit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Ринит – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ileit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Илеит – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Эписклерит",
+            "url": "#"
+        },
+        {
+            "name": "Глаза",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Покраснение глаз",
+            "url": "#"
+        },
+        {
+            "name": "Офтальмология",
+            "url": "#"
+        },
+        {
+            "name": "Здоровье глаз",
+            "url": "#"
+        }
+    ]
+}

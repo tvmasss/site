@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-v-krestce",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в крестце – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nejrogennyj-mochevoj-puzyr",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309138.png",
+            "title": "Нейрогенный мочевой пузырь – причины, симптомы, признаки, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/fibroma-matki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Фиброма матки – симптомы, причины диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-kozhi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8358\/8358500.png",
+            "title": "Рак кожи – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kista-pochki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2750\/2750412.png",
+            "title": "Киста почки – причины, симптомы, виды, диагностика и лечение у женщин и мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/voronkoobraznaya-grudnaya-kletka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220324.png",
+            "title": "Воронкообразная грудная клетка – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Эрозия шейки матки",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Кольпоскопия",
+            "url": "#"
+        },
+        {
+            "name": "Прижигание",
+            "url": "#"
+        },
+        {
+            "name": "Профилактика",
+            "url": "#"
+        }
+    ]
+}
