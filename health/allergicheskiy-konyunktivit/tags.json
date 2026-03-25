@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/mastodiniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3554\/3554123.png",
+            "title": "Мастодиния молочной железы – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/podtekanie-okoloplodnyh-vod",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Подтекание околоплодных вод – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-pleche",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Боль в плече: причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/laringofaringealnyy-reflyuks",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7350\/7350864.png",
+            "title": "Ларингофарингеальный рефлюкс – симптомы, причины, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bokovoy-amiotroficheskiy-skleroz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6969\/6969711.png",
+            "title": "Боковой амиотрофический склероз (БАС) – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kandidoz-kishechnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Кандидоз кишечника – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Аллергический конъюнктивит",
+            "url": "#"
+        },
+        {
+            "name": "Конъюнктивит",
+            "url": "#"
+        },
+        {
+            "name": "Аллергия",
+            "url": "#"
+        },
+        {
+            "name": "Глаза",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Офтальмология",
+            "url": "#"
+        }
+    ]
+}
