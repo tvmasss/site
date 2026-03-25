@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/trakheit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730035.png",
+            "title": "Трахеит – причины, симптомы, диагностика и способы лечения заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ateroskleroz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7253\/7253333.png",
+            "title": "Атеросклероз – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-nogi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом ноги – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/adgezivnyy-kapsulit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702294.png",
+            "title": "Адгезивный капсулит – симптомы, диагностика, причины и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-sheyermana-mau",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Болезнь Шейермана-Мау – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-pravom-boku",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3782\/3782036.png",
+            "title": "Боль в правом боку – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Панические атаки",
+            "url": "#"
+        },
+        {
+            "name": "Тревога",
+            "url": "#"
+        },
+        {
+            "name": "Психика",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "ВСД",
+            "url": "#"
+        },
+        {
+            "name": "Психотерапия",
+            "url": "#"
+        },
+        {
+            "name": "Страх",
+            "url": "#"
+        }
+    ]
+}

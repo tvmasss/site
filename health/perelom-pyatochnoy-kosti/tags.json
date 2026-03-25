@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/amebiaz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8089\/8089304.png",
+            "title": "Амебиаз – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/uzlovaya-mastopatiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5433\/5433389.png",
+            "title": "Узловая мастопатия молочной железы – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/apatiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6851\/6851384.png",
+            "title": "Апатия – симптомы, причины, признаки, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/helikobakter-pilori-helikobakterioz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Helicobacter pylori (хеликобактер пилори) – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/borodavka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7350\/7350880.png",
+            "title": "Бородавка – причины, симптомы, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/mehanicheskaya-zheltuha",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615478.png",
+            "title": "Механическая желтуха – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Перелом пяточной кости",
+            "url": "#"
+        },
+        {
+            "name": "Пятка",
+            "url": "#"
+        },
+        {
+            "name": "Перелом",
+            "url": "#"
+        },
+        {
+            "name": "Травма",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Травматология",
+            "url": "#"
+        },
+        {
+            "name": "Реабилитация",
+            "url": "#"
+        }
+    ]
+}

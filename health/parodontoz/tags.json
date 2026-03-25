@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/iskrivlenie-pozvonochnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2222\/2222615.png",
+            "title": "Искривление позвоночника – симптомы, причины, диагностика и методы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/spermatocele",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615318.png",
+            "title": "Сперматоцеле – симптомы, причины, виды, диагностика и лечение у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-pri-mocheispuskanii-u-muzhchin",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5935\/5935615.png",
+            "title": "Боль при мочеиспускании у мужчин – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ostryj-periodontit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Острый периодонтит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sindrom-zollingera-ellisona",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Синдром Золлингера-Эллисона – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sinusit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Синусит – симптомы, причины, признаки, диагностика и лечение болезни",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пародонтоз",
+            "url": "#"
+        },
+        {
+            "name": "Десны",
+            "url": "#"
+        },
+        {
+            "name": "Зубы",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Стоматология",
+            "url": "#"
+        },
+        {
+            "name": "Пародонтит",
+            "url": "#"
+        },
+        {
+            "name": "Оголение шеек",
+            "url": "#"
+        }
+    ]
+}

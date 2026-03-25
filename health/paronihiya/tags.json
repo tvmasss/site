@@ -1,0 +1,76 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/ekzema-soskov",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8604\/8604378.png",
+            "title": "Экзема сосков – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zud-v-glazah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6701\/6701603.png",
+            "title": "Зуд в глазах – причины симптома, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/artroz-luchezapyastnogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Артроз лучезапястного сустава – степени, признаки, симптомы и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zud-v-glazakh",
+            "error": "Data not found"
+        },
+        {
+            "url": "\/health\/artroz-golenostopnogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6450\/6450231.png",
+            "title": "Артроз голеностопного сустава – причины, симптомы, диагностика, лечение и профилактика болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/krapivnitsa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5726\/5726899.png",
+            "title": "Крапивница – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Паронихия",
+            "url": "#"
+        },
+        {
+            "name": "Ноготь",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление",
+            "url": "#"
+        },
+        {
+            "name": "Панариций",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Дерматология",
+            "url": "#"
+        }
+    ]
+}

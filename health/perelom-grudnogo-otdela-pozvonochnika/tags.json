@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/klaustrofobiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997910.png",
+            "title": "Клаустрофобия – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zhirnye-volosy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6768\/6768275.png",
+            "title": "Жирные волосы – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/giperestrogeniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370301.png",
+            "title": "Гиперэстрогения – что это, симптомы, причины, диагностика и лечение у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/trahoma-glaz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Трахома – причины, симптомы и способы лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/trakheit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730035.png",
+            "title": "Трахеит – причины, симптомы, диагностика и способы лечения заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/brucellez",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2913\/2913473.png",
+            "title": "Бруцеллез – симптомы, причины, диагностика и лечение болезни",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Перелом позвоночника",
+            "url": "#"
+        },
+        {
+            "name": "Грудной отдел",
+            "url": "#"
+        },
+        {
+            "name": "Травма",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Реабилитация",
+            "url": "#"
+        },
+        {
+            "name": "Позвонок",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Хирургия",
+            "url": "#"
+        }
+    ]
+}
