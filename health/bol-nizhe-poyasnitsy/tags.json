@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/diastema",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3501\/3501475.png",
+            "title": "Диастема – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nistagm",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Нистагм – причины возникновения, симптомы, виды и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/obstruktivnyy-bronhit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Обструктивный бронхит – причины, симптомы, степени тяжести, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-vnizu-zhivota-u-muzhchin",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3782\/3782036.png",
+            "title": "Боль внизу живота у мужчин – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-vo-rtu",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728068.png",
+            "title": "Боль во рту – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vzdutie-zhivota-meteorizm",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6534\/6534034.png",
+            "title": "Вздутие живота (Метеоризм) – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Боль ниже поясницы",
+            "url": "#"
+        },
+        {
+            "name": "Поясница",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Крестец",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        }
+    ]
+}

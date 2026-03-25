@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/osteohondropatii",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Остеохондропатии – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/fibroz-legkih",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Фиброз легких – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zatrudnennoe-nosovoe-dyhanie",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Затрудненное носовое дыхание – причины симптома, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-oblasti-pupka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6534\/6534031.png",
+            "title": "Боль в области пупка – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zyabkost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3782\/3782096.png",
+            "title": "Зябкость – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/uzlovaya-mastopatiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5433\/5433389.png",
+            "title": "Узловая мастопатия молочной железы – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Болезнь Шинца",
+            "url": "#"
+        },
+        {
+            "name": "Пятка",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Боль в пятке",
+            "url": "#"
+        },
+        {
+            "name": "Дети",
+            "url": "#"
+        },
+        {
+            "name": "Остеохондропатия",
+            "url": "#"
+        }
+    ]
+}
