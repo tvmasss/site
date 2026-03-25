@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/enterit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Энтерит – причины, симптомы, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/polipy-zhelchnogo-puzyrya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615478.png",
+            "title": "Полипы в желчном пузыре – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/boli-pri-mesyachnyh",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5089\/5089602.png",
+            "title": "Боли при месячных (Альгодисменорея) – причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/anizokoriya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309054.png",
+            "title": "Анизокория (зрачки разного размера): симптомы, причины и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/adenokarcinoma-matki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Аденокарцинома матки – причины, симптомы, диагностика и лечение, прогноз",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kleptomaniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7095\/7095968.png",
+            "title": "Клептомания – причины, симптомы, виды, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Слепота",
+            "url": "#"
+        },
+        {
+            "name": "Зрение",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Глаза",
+            "url": "#"
+        },
+        {
+            "name": "Инвалидность",
+            "url": "#"
+        },
+        {
+            "name": "Офтальмология",
+            "url": "#"
+        }
+    ]
+}

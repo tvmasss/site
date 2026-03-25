@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/nasmork",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1497\/1497066.png",
+            "title": "Насморк – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/angina",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Ангина – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-loktevom-sustave",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7924\/7924818.png",
+            "title": "Боль в локтевом суставе – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-kopchike",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в копчике – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/polipy-kishechnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309125.png",
+            "title": "Полипы кишечника – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-pravoj-polovine-golovy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Боль в правой половине головы – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Раздражительность",
+            "url": "#"
+        },
+        {
+            "name": "Психика",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Стресс",
+            "url": "#"
+        },
+        {
+            "name": "Гнев",
+            "url": "#"
+        },
+        {
+            "name": "Невроз",
+            "url": "#"
+        },
+        {
+            "name": "Психология",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/impulsivnost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7095\/7095968.png",
+            "title": "Импульсивность – причины импульсивного поведения, симптомы, признаки, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kavernit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309128.png",
+            "title": "Кавернит – симптомы, причины, виды, диагностика и лечение у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zaderzhka-mocheispuskaniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5935\/5935615.png",
+            "title": "Задержка мочеиспускания – причины, симптомы, виды, диагностика и лечение у женщин и мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-sheyki-matki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8358\/8358476.png",
+            "title": "Рак шейки матки – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/artroz-plechevogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Артроз плечевого сустава – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/uhudshenie-zreniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1806\/1806326.png",
+            "title": "👁️ Ухудшение зрения – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Разрыв сетчатки",
+            "url": "#"
+        },
+        {
+            "name": "Глаза",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Отслоение сетчатки",
+            "url": "#"
+        },
+        {
+            "name": "Офтальмология",
+            "url": "#"
+        },
+        {
+            "name": "Зрение",
+            "url": "#"
+        },
+        {
+            "name": "Лазерная коагуляция",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/aritmiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411269.png",
+            "title": "Аритмия – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/pieloektaziya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Пиелоэктазия почек – симптомы, причины, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/paranefrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Паранефрит почки – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-bedra",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом бедра – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/krapivnitsa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5726\/5726899.png",
+            "title": "Крапивница – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nistagm",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Нистагм – причины возникновения, симптомы, виды и способы лечения заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Задержка мочеиспускания",
+            "url": "#"
+        },
+        {
+            "name": "Ишурия",
+            "url": "#"
+        },
+        {
+            "name": "Моча",
+            "url": "#"
+        },
+        {
+            "name": "Урология",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        }
+    ]
+}

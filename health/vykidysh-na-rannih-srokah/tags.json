@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/naruzhnyj-otit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6598\/6598353.png",
+            "title": "Наружный отит – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zakrytyy-perelom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Закрытый перелом – симптомы, причины, диагностика и методы лечения заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/galvanoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728068.png",
+            "title": "Гальваноз – причины гальванизма во рту, симптомы, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/klinovidnye-pozvonki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Клиновидные позвонки – причины, симптомы, лечение и реабилитация",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/atroficheskiy-rinit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Атрофический ринит – симптомы, причины, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/metrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Метрит – причины, симптомы, диагностика и лечение у женщин",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Выкидыш",
+            "url": "#"
+        },
+        {
+            "name": "Беременность",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Потеря беременности",
+            "url": "#"
+        },
+        {
+            "name": "Кровотечение",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        },
+        {
+            "name": "Ранний срок",
+            "url": "#"
+        }
+    ]
+}

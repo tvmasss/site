@@ -1,0 +1,74 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/oprelost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2268\/2268865.png",
+            "title": "Опрелость – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-greyvsa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702192.png",
+            "title": "Болезнь Грейвса – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kavernit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309128.png",
+            "title": "Кавернит – симптомы, причины, виды, диагностика и лечение у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-pochkah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2750\/2750412.png",
+            "title": "Боль в почках – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/diastema",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3501\/3501475.png",
+            "title": "Диастема – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-pod-lopatkoy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль под лопаткой – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рак глотки",
+            "url": "#"
+        },
+        {
+            "name": "Глотка",
+            "url": "#"
+        },
+        {
+            "name": "Онкология",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "ЛОР",
+            "url": "#"
+        }
+    ]
+}

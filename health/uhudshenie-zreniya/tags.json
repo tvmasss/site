@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/alveolit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Альвеолит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/dyhatelnaya-nedostatochnost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654717.png",
+            "title": "Дыхательная недостаточность – причины, симптомы, виды, диагностика и лечение заболевания у взрослого",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rvota-pri-beremennosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730148.png",
+            "title": "Рвота при беременности – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/generalizovannyy-parodontit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Генерализованный пародонтит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/displaziya-tazobedrennykh-sustavov",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Дисплазия тазобедренных суставов – симптомы, причины, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/akusticheskaya-travma-akutravma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2547\/2547868.png",
+            "title": "Акустическая травма – симптомы, причины, диагностика и лечение акутравмы у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Ухудшение зрения",
+            "url": "#"
+        },
+        {
+            "name": "Зрение",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Офтальмология",
+            "url": "#"
+        },
+        {
+            "name": "Глаза",
+            "url": "#"
+        },
+        {
+            "name": "Близорукость",
+            "url": "#"
+        },
+        {
+            "name": "Дальнозоркость",
+            "url": "#"
+        }
+    ]
+}

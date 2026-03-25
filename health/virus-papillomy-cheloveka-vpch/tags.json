@@ -1,0 +1,74 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/fimoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309128.png",
+            "title": "Фимоз у мужчин – причины, симптомы, лечение и диагностика",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gipoplaziya-matki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Гипоплазия матки 1,2,3 степени – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/papillomatoz-gortani",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5727\/5727010.png",
+            "title": "Папилломатоз гортани – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/apopleksiya-yaichnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370301.png",
+            "title": "Апоплексия яичника – причины, симптомы, формы, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-goleni",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в голени – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/otryzhka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7350\/7350864.png",
+            "title": "Отрыжка – причины, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "ВПЧ",
+            "url": "#"
+        },
+        {
+            "name": "Вирус папилломы человека",
+            "url": "#"
+        },
+        {
+            "name": "ИППП",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/blednost-kozhi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4145\/4145553.png",
+            "title": "Бледность кожи – причины бледности кожных покровов, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/osteodistrofii",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Остеодистрофии – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/otek-mozga",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6969\/6969711.png",
+            "title": "Отек мозга – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/artroz-kolennogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Артроз коленного сустава – стадии, степени, признаки, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-blaunta",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220312.png",
+            "title": "Болезнь Блаунта – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rezkaya-poterya-zreniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1806\/1806326.png",
+            "title": "Резкая потеря зрения – причины симптома, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Ретинопатия",
+            "url": "#"
+        },
+        {
+            "name": "Сетчатка",
+            "url": "#"
+        },
+        {
+            "name": "Глаза",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Офтальмология",
+            "url": "#"
+        },
+        {
+            "name": "Сосуды",
+            "url": "#"
+        }
+    ]
+}

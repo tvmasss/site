@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/rasseyannyy-skleroz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6969\/6969711.png",
+            "title": "Рассеянный склероз – что это, причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/holedoholitiaz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615478.png",
+            "title": "Холедохолитиаз – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/prl-pogranichnoe-rasstroystvo-lichnosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6186\/6186678.png",
+            "title": "Пограничное расстройство личности (ПРЛ) – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rozacea",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411620.png",
+            "title": "Розацеа – симптмы, причины, профилактика и лечения розовых угрей у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-nogah",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в ногах – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-berzhe",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Болезнь Берже (IgA-нефропатия) – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "СОАС",
+            "url": "#"
+        },
+        {
+            "name": "Апноэ сна",
+            "url": "#"
+        },
+        {
+            "name": "Сон",
+            "url": "#"
+        },
+        {
+            "name": "Остановка дыхания",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Сомнология",
+            "url": "#"
+        }
+    ]
+}

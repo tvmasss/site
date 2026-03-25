@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/nestabilnost-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4040\/4040437.png",
+            "title": "Нестабильность сустава – лечение заболевания, признаки, симптомы, причины и степени",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/disfagiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Дисфагия – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/asepticheskij-nekroz-golovki-bedrennoj-kosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Асептический некроз головки бедренной кости (АНГБК) – стадии, степени, признаки, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/drozh-v-rukakh",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997940.png",
+            "title": "Дрожь в руках (тремор) – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/evstahiit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6598\/6598353.png",
+            "title": "Евстахиит – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/otkrytyj-perelom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Открытый перелом – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "ПМС",
+            "url": "#"
+        },
+        {
+            "name": "Предменструальный синдром",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гормоны",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        },
+        {
+            "name": "Настроение",
+            "url": "#"
+        }
+    ]
+}

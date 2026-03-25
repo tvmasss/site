@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/gastroenterit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4033\/4033828.png",
+            "title": "Гастроэнтерит – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/keratokonus",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Кератоконус – причины, симптомы, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-mochevogo-puzyrya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8358\/8358491.png",
+            "title": "Рак мочевого пузыря – симптомы, причины, диагностика и лечение у мужчин и женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/atroficheskiy-kolpit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615522.png",
+            "title": "Атрофический кольпит (вагинит) – причины, симптомы, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/belye-vydeleniya-iz-vlagalischa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5089\/5089595.png",
+            "title": "Белые выделения из влагалища у женщин – причины симптома белей, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/paranefrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Паранефрит почки – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Внематочная беременность",
+            "url": "#"
+        },
+        {
+            "name": "Беременность",
+            "url": "#"
+        },
+        {
+            "name": "Осложнение",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Эктопическая",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        },
+        {
+            "name": "Хирургия",
+            "url": "#"
+        }
+    ]
+}

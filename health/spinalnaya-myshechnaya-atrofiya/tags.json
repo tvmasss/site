@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/probodnaya-yazva-zheludka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Прободная язва желудка – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/generalizovannyy-parodontit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Генерализованный пародонтит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vulvodiniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7077\/7077853.png",
+            "title": "Вульводиния – что это, симптомы, причины, диагностика и лечение у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-pozvonochnike",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Боль в позвоночнике – причины симптома, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bronhialnaya-astma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654825.png",
+            "title": "Бронхиальная астма – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/catatrauma",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/9818\/9818299.png",
+            "title": "Кататравма – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "СМА",
+            "url": "#"
+        },
+        {
+            "name": "Спинальная мышечная атрофия",
+            "url": "#"
+        },
+        {
+            "name": "Нервная система",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Генетика",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        }
+    ]
+}

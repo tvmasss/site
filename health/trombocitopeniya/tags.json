@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/pielit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Пиелит – признаки, симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nalyet-na-yazyke",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2774\/2774022.png",
+            "title": "Налет на языке – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/legochnaya-gipertenziya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4473\/4473742.png",
+            "title": "Легочная гипертензия – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bursit-kolennogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Бурсит коленного сустава – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/genitalnyy-gerpes",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6199\/6199036.png",
+            "title": "Генитальный герпес – симптомы, причины, диагностика и лечение у женщин и мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/diskineziya-zhelchnogo-puzyrya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615478.png",
+            "title": "Дискинезия желчного пузыря – причины, симптомы, диагностика и лечение заболевание у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тромбоцитопения",
+            "url": "#"
+        },
+        {
+            "name": "Кровь",
+            "url": "#"
+        },
+        {
+            "name": "Тромбоциты",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гематология",
+            "url": "#"
+        },
+        {
+            "name": "Кровоточивость",
+            "url": "#"
+        }
+    ]
+}

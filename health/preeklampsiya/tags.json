@@ -1,0 +1,74 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/premenopauza",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370272.png",
+            "title": "Пременопауза – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bezoar-zheludka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7350\/7350857.png",
+            "title": "Безоар желудка (желудочный камень): причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/podkovoobraznaya-pochka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2750\/2750412.png",
+            "title": "Подковообразная почка – симптомы, причины, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zamershaya-beremennost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4354\/4354452.png",
+            "title": "Замершая беременность на ранних сроках: причины, симптомы и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-goffa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220390.png",
+            "title": "Болезнь Гоффа – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/tuberkulez",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Туберкулез – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Преэклампсия",
+            "url": "#"
+        },
+        {
+            "name": "Беременность",
+            "url": "#"
+        },
+        {
+            "name": "Давление",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Акушерство",
+            "url": "#"
+        }
+    ]
+}

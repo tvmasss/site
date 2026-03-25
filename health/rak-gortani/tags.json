@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/pterigium",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Птеригиум глаза – симптомы, причины, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-bekhtereva",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Болезнь Бехтерева – причины, симптомы, диагностика и лечение анкилозирующего спондилоартрита",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gigantokletochnaya-opukhol-kosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Гигантоклеточная опухоль кости (остеобластокластома) – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-temeni",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Боль в темени – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/obmorok-sinkope",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997876.png",
+            "title": "Обморок (синкопе) – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nochnoj-kashel",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730035.png",
+            "title": "Ночной кашель – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рак гортани",
+            "url": "#"
+        },
+        {
+            "name": "Гортань",
+            "url": "#"
+        },
+        {
+            "name": "Онкология",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Голос",
+            "url": "#"
+        },
+        {
+            "name": "ЛОР",
+            "url": "#"
+        },
+        {
+            "name": "Опухоль",
+            "url": "#"
+        }
+    ]
+}

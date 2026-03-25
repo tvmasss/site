@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bolezn-ole",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Болезнь Олье – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/psoriaz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2268\/2268859.png",
+            "title": "Псориаз – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nochnaya-potlivost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6701\/6701615.png",
+            "title": "🌙 Ночная потливость – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vodyanka-yaichka-gidrotsele",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615318.png",
+            "title": "Водянка яичка у мужчин – симптомы, причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/furunkul-chirey",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5727\/5727010.png",
+            "title": "Фурункул (чирей) – причины, симптомы и способы лечения у взрослыз",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/pilorostenoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Пилоростеноз – причины, симптомы, диагностика и лечение заболевание у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Разрыв мениска",
+            "url": "#"
+        },
+        {
+            "name": "Колено",
+            "url": "#"
+        },
+        {
+            "name": "Мениск",
+            "url": "#"
+        },
+        {
+            "name": "Травма",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Артроскопия",
+            "url": "#"
+        },
+        {
+            "name": "Боль",
+            "url": "#"
+        }
+    ]
+}

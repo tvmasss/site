@@ -1,0 +1,74 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/ponizhennoe-arterialnoe-davlenie",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3184\/3184052.png",
+            "title": "Низкое давление (АД) – причины артериальной гипотензии, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vaginit-kolpit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615522.png",
+            "title": "Вагинит (кольпит) – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/osteoartroz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4040\/4040437.png",
+            "title": "Остеоартроз – степени, стадии, признаки, симптомы и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/atrofiya-zritelnogo-nerva",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1806\/1806326.png",
+            "title": "Атрофия зрительного нерва – причины, симптомы, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kom-v-gorle",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Ком в горле – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-krestce",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в крестце – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пременопауза",
+            "url": "#"
+        },
+        {
+            "name": "Климакс",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        }
+    ]
+}

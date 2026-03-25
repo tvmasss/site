@@ -1,0 +1,80 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/salpingit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Сальпингит – что это, симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-pecheni",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5793\/5793623.png",
+            "title": "🤔 Боль в печени: причины, симптомы, диагностика и лечение в клинике",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/periostit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2725\/2725614.png",
+            "title": "Периостит челюсти (флюс) – причины, симптомы, виды, диагностика и лечение заболевания зубов и десен",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-grudi-u-zhenshchin",
+            "error": "Data not found"
+        },
+        {
+            "url": "\/health\/ostryj-periodontit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Острый периодонтит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gastroptoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Гастроптоз – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Пресбиопия",
+            "url": "#"
+        },
+        {
+            "name": "Возрастная дальнозоркость",
+            "url": "#"
+        },
+        {
+            "name": "Зрение",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Очки для чтения",
+            "url": "#"
+        },
+        {
+            "name": "Офтальмология",
+            "url": "#"
+        },
+        {
+            "name": "Хрусталик",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/abscess-kozhi",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6136\/6136405.png",
+            "title": "Абсцесс кожи – причины, симптомы, диагностика и лечение болезни кожи у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/uchaschennoe-dyhanie-tahipnoe",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654683.png",
+            "title": "Учащенное дыхание (тахипноэ) – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/polipy-zheludka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Полипы желудка – причины, симптомы, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sindrom-mellori-veysa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2420\/2420024.png",
+            "title": "Синдром Меллори-Вейса – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-spine",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в спине – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-oblasti-lba",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Боль в области лба – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Ринофарингит",
+            "url": "#"
+        },
+        {
+            "name": "Насморк",
+            "url": "#"
+        },
+        {
+            "name": "Боль в горле",
+            "url": "#"
+        },
+        {
+            "name": "ОРВИ",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "ЛОР",
+            "url": "#"
+        },
+        {
+            "name": "Простуда",
+            "url": "#"
+        }
+    ]
+}

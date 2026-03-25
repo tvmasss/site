@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/faringit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Фарингит – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vnematochnaya-beremennost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Внематочная беременность – причины, симптомы, виды, диагностика и лечение эктопической беременности",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/autoagressiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7095\/7095968.png",
+            "title": "Аутоагрессия – причины, симптомы, виды, диагностика и лечение заболевания у взрослых и подростков",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/distalnyy-prikus",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3501\/3501475.png",
+            "title": "Дистальный прикус – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-zadnem-prohode-u-zhenshchin",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411561.png",
+            "title": "🔥 Боль в заднем проходе у женщин: причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/pochechnaya-kolika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Почечная колика – причины, симптомы, виды, диагностика и лечение у женщин и мужчин",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Тиреотоксикоз",
+            "url": "#"
+        },
+        {
+            "name": "Щитовидная железа",
+            "url": "#"
+        },
+        {
+            "name": "Гормоны",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Эндокринология",
+            "url": "#"
+        },
+        {
+            "name": "Гипертиреоз",
+            "url": "#"
+        }
+    ]
+}

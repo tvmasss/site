@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/narusheniya-osanki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Нарушения осанки – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/voronkoobraznaya-grudnaya-kletka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220324.png",
+            "title": "Воронкообразная грудная клетка – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zalozhennost-uha",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6598\/6598353.png",
+            "title": "Заложенность уха – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/narushenie-pohodki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6450\/6450231.png",
+            "title": "Нарушение походки – причины дисбазии, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kriptorkhizm",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4615\/4615318.png",
+            "title": "Крипторхизм – симптомы, причины, диагностика и лечение у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/disfunktsiya-yaichnikov",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370301.png",
+            "title": "Дисфункция яичников – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Задержка месячных",
+            "url": "#"
+        },
+        {
+            "name": "Менструальный цикл",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Беременность",
+            "url": "#"
+        },
+        {
+            "name": "Гормоны",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        }
+    ]
+}

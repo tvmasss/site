@@ -1,0 +1,80 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/intersticialnyy-nefrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660065.png",
+            "title": "Интерстициальный нефрит – симптомы, причины, признаки, виды и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/abscess-predstatelnoj-zhelezy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196525.png",
+            "title": "Абсцесс предстательной железы – симптомы, причины, диагностика и лечение болезни у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-spine-mezhdu-lopatkami",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в спине между лопатками – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kom-v-gorle",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Ком в горле – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/mikoplazmoz-u-zhenschin",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411918.png",
+            "title": "Микоплазмоз у женщин – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nefrosklerоз",
+            "error": "Data not found"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Токсический гепатит",
+            "url": "#"
+        },
+        {
+            "name": "Гепатит",
+            "url": "#"
+        },
+        {
+            "name": "Печень",
+            "url": "#"
+        },
+        {
+            "name": "Токсины",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гастроэнтерология",
+            "url": "#"
+        },
+        {
+            "name": "Отравление",
+            "url": "#"
+        }
+    ]
+}

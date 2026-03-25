@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/khronicheskiy-tsistit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309138.png",
+            "title": "Хронический цистит – симптомы, причины, диагностика и лечение у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/prezhdevremennaya-eyakulyatsiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6350\/6350039.png",
+            "title": "Преждевременная эякуляция (семяизвержение) – причины, симптомы, диагностика и лечение заболевания у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/aftoznyi-stomatit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702170.png",
+            "title": "Афтозный стоматит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-de-kervena",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Болезнь де Кервена – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gnoynyy-artrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4040\/4040437.png",
+            "title": "Гнойный артрит – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/chastoe-mocheispuskanie",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5935\/5935615.png",
+            "title": "Частое мочеиспускание – причины, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Сахарный диабет",
+            "url": "#"
+        },
+        {
+            "name": "Диабет",
+            "url": "#"
+        },
+        {
+            "name": "Сахар",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Эндокринология",
+            "url": "#"
+        },
+        {
+            "name": "Инсулин",
+            "url": "#"
+        },
+        {
+            "name": "Глюкоза",
+            "url": "#"
+        }
+    ]
+}

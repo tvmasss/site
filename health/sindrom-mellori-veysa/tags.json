@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/rak-zheludka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Рак желудка – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-poyasnitse-u-zhenschin",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Боль в пояснице у женщин – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gallyucinacii",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997867.png",
+            "title": "Галлюцинации – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/shizofreniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997848.png",
+            "title": "Шизофрения – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vnutrisustavnoy-perelom",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Внутрисуставной перелом – симптомы, причины, признаки, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-pochk",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8358\/8358480.png",
+            "title": "Рак почки – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Синдром Меллори-Вейса",
+            "url": "#"
+        },
+        {
+            "name": "Кровотечение",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Рвота",
+            "url": "#"
+        },
+        {
+            "name": "Пищевод",
+            "url": "#"
+        },
+        {
+            "name": "Желудок",
+            "url": "#"
+        },
+        {
+            "name": "Неотложная помощь",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/angina",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Ангина – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gerpes-na-glazu",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4383\/4383408.png",
+            "title": "👁️ Герпес на глазу (офтальмогерпес) – причины, симптомы, лечение и диагностика",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nevropatiya-luchevogo-nerva",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Невропатия лучевого нерва – причины, симптомы и стадии неврита лучевого нерва руки, лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/metrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Метрит – причины, симптомы, диагностика и лечение у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-trakhei",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Рак трахеи – причины, симптомы, виды, стадии, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-pri-polovom-akte-dispareuniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6199\/6199036.png",
+            "title": "Боль при половом акте – причины диспареунии, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Сальпингит",
+            "url": "#"
+        },
+        {
+            "name": "Маточные трубы",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Воспаление",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        }
+    ]
+}

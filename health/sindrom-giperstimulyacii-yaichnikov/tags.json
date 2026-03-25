@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/gepatit-g",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5793\/5793623.png",
+            "title": "Гепатит G – причины, симптомы, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/hronicheskij-rinit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Хронический ринит – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gipermetropiya-dalnozorkost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937354.png",
+            "title": "Гиперметропия (дальнозоркость) – причины, симптомы, степени, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/dobrokachestvennye-novoobrazovaniya-kistey",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Доброкачественные новообразования кистей – лечение, симптомы, причины и стадии опухолей кисти рук",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/adenoma-nadpochechnika",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196560.png",
+            "title": "Аденома надпочечника – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/sindrom-hronicheskoy-ustalosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8212\/8212763.png",
+            "title": "Синдром хронической усталости – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "СГЯ",
+            "url": "#"
+        },
+        {
+            "name": "Синдром гиперстимуляции яичников",
+            "url": "#"
+        },
+        {
+            "name": "ЭКО",
+            "url": "#"
+        },
+        {
+            "name": "Женское здоровье",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Гинекология",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/iridociklit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Иридоциклит – симптомы, причины, лечение и диагностика заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nevropatiya-luchevogo-nerva",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Невропатия лучевого нерва – причины, симптомы и стадии неврита лучевого нерва руки, лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-zadnem-prohode",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411561.png",
+            "title": "Боль в заднем проходе – причины симптома, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gipoglikemiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6450\/6450225.png",
+            "title": "Гипогликемия – причины, симптомы, степени тяжести, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/distopiya-pochki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2750\/2750412.png",
+            "title": "Дистопия почки – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/deficit-vitamina-a",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7757\/7757815.png",
+            "title": "Дефицит витамина А – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Туберкулез",
+            "url": "#"
+        },
+        {
+            "name": "Инфекция",
+            "url": "#"
+        },
+        {
+            "name": "Легкие",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Фтизиатрия",
+            "url": "#"
+        },
+        {
+            "name": "Кашель",
+            "url": "#"
+        },
+        {
+            "name": "Профилактика",
+            "url": "#"
+        }
+    ]
+}

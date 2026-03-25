@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/spinalnaya-myshechnaya-atrofiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220271.png",
+            "title": "Спинальная мышечная атрофия (СМА) – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-pertesa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702258.png",
+            "title": "Болезнь Пертеса – причины, симптомы, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/koronarnyy-tromboz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4473\/4473751.png",
+            "title": "Коронарный тромбоз – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rasstroystvo-bredovoe",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997848.png",
+            "title": "Бредовые расстройства – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/abscess-predstatelnoj-zhelezy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196525.png",
+            "title": "Абсцесс предстательной железы – симптомы, причины, диагностика и лечение болезни у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/probodnaya-yazva-zheludka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Прободная язва желудка – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рассеянный склероз",
+            "url": "#"
+        },
+        {
+            "name": "РС",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Аутоиммунное",
+            "url": "#"
+        },
+        {
+            "name": "Нервная система",
+            "url": "#"
+        }
+    ]
+}

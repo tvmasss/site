@@ -1,0 +1,80 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/zalozhennost-nosa",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5759\/5759392.png",
+            "title": "Заложенность носа – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gardnerellez",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411918.png",
+            "title": "Гарднереллез – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-oblasti-lobka-u-zhenshchin",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7077\/7077876.png",
+            "title": "Боль в лобковой области у женщин – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/nefrosklerоз",
+            "error": "Data not found"
+        },
+        {
+            "url": "\/health\/angina",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2660\/2660111.png",
+            "title": "Ангина – причины, симптомы, диагностика и способы лечения заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/podkovoobraznaya-pochka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2750\/2750412.png",
+            "title": "Подковообразная почка – симптомы, причины, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Рецессия десны",
+            "url": "#"
+        },
+        {
+            "name": "Десна",
+            "url": "#"
+        },
+        {
+            "name": "Зубы",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Стоматология",
+            "url": "#"
+        },
+        {
+            "name": "Оголение корня",
+            "url": "#"
+        },
+        {
+            "name": "Пародонтология",
+            "url": "#"
+        }
+    ]
+}

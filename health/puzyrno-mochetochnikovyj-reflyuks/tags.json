@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/alveokokkoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5793\/5793623.png",
+            "title": "Альвеококкоз – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bolezn-kellera",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6450\/6450231.png",
+            "title": "Болезнь Келлера – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/plevrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Плеврит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/piometra",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Пиометра – причины, симптомы, диагностика и лечение у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ekzema",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4383\/4383553.png",
+            "title": "Экзема – причины, симптомы и способы лечения заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-zhivote",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3782\/3782036.png",
+            "title": "Боль в животе – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "ПМР",
+            "url": "#"
+        },
+        {
+            "name": "Пузырно-мочеточниковый рефлюкс",
+            "url": "#"
+        },
+        {
+            "name": "Моча",
+            "url": "#"
+        },
+        {
+            "name": "Почки",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Урология",
+            "url": "#"
+        }
+    ]
+}

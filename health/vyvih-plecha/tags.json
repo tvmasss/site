@@ -1,0 +1,74 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/sindrom-gornera",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Синдром Горнера – причины, симптомы, диагностика и лечение болезни",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ostriy-prostatit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7196\/7196525.png",
+            "title": "Острый простатит – симптомы, причины, диагностика и лечение у мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/atrofiya-zritelnogo-nerva",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1806\/1806326.png",
+            "title": "Атрофия зрительного нерва – причины, симптомы, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rak-pecheni",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8358\/8358478.png",
+            "title": "Рак печени – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/pnevmotoraks",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Пневмоторакс – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/hronicheskii-gastrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4702\/4702197.png",
+            "title": "Хронический гастрит – причины, симптомы, диагностика и лечение у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Вывих плеча",
+            "url": "#"
+        },
+        {
+            "name": "Плечо",
+            "url": "#"
+        },
+        {
+            "name": "Травма",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Реабилитация",
+            "url": "#"
+        }
+    ]
+}
