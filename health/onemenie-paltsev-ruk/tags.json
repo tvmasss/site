@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/bol-v-temeni",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Боль в темени – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/puzyrno-mochetochnikovyj-reflyuks",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309138.png",
+            "title": "Пузырно-мочеточниковый рефлюкс (ПМР) – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/voronkoobraznaya-grudnaya-kletka",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7220\/7220324.png",
+            "title": "Воронкообразная грудная клетка – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/khronicheskiy-tsistit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309138.png",
+            "title": "Хронический цистит – симптомы, причины, диагностика и лечение у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/hronicheskiy-bronhit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Хронический бронхит – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/osteodistrofii",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3066\/3066996.png",
+            "title": "Остеодистрофии – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Онемение пальцев рук",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Невропатия",
+            "url": "#"
+        },
+        {
+            "name": "Синдром запястного канала",
+            "url": "#"
+        },
+        {
+            "name": "Остеохондроз",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Кисти",
+            "url": "#"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/frontit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5730\/5730290.png",
+            "title": "Фронтит – причины, симптомы, виды, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/razdrazhitelnost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3997\/3997910.png",
+            "title": "Раздражительность – причины, симптомы, виды, диагностика и лечение у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/akhillobursit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8670\/8670805.png",
+            "title": "Ахиллобурсит – причины, симптомы и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/krovotechenie-pri-beremennosti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2420\/2420024.png",
+            "title": "Кровотечение при беременности на ранних сроках – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gestoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Гестоз – что это, симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/vyvihi-kisti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Вывихи кисти – причины, симптомы и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Нейросифилис",
+            "url": "#"
+        },
+        {
+            "name": "Сифилис",
+            "url": "#"
+        },
+        {
+            "name": "Нервная система",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "ИППП",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Осложнение",
+            "url": "#"
+        }
+    ]
+}

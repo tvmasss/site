@@ -1,0 +1,78 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/pulpit-zuba",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3501\/3501475.png",
+            "title": "🦷 Пульпит: причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zamershaya-beremennost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4354\/4354452.png",
+            "title": "Замершая беременность на ранних сроках: причины, симптомы и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gipoplaziya-matki",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Гипоплазия матки 1,2,3 степени – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/diplopiya-dvoenie-v-glazakh",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4937\/4937372.png",
+            "title": "Диплопия (двоение в глазах) – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ponizhennoe-arterialnoe-davlenie",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3184\/3184052.png",
+            "title": "Низкое давление (АД) – причины артериальной гипотензии, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/gonoreya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6199\/6199036.png",
+            "title": "Гонорея (триппер) – симптомы, причины, признаки, диагностика и лечение заболевания у мужчин и женщин",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Невроз навязчивых состояний",
+            "url": "#"
+        },
+        {
+            "name": "ОКР",
+            "url": "#"
+        },
+        {
+            "name": "Тревога",
+            "url": "#"
+        },
+        {
+            "name": "Навязчивости",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Психотерапия",
+            "url": "#"
+        }
+    ]
+}

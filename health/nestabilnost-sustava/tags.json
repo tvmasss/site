@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/oliguriya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1021\/1021576.png",
+            "title": "Олигурия – причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/giperestrogeniya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370301.png",
+            "title": "Гиперэстрогения – что это, симптомы, причины, диагностика и лечение у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/parodontoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2779\/2779548.png",
+            "title": "Пародонтоз – причины, симптомы, стадии, диагностика и лечение заболевания зубов и десен",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bursit-plechevogo-sustava",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/5728\/5728136.png",
+            "title": "Бурсит плечевого сустава – симптомы, причины, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-zadnem-prohode",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3411\/3411561.png",
+            "title": "Боль в заднем проходе – причины симптома, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/follikulit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3514\/3514001.png",
+            "title": "Фолликулит – причины, симптомы, диагностика и лечение болезни у взрослых",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Нестабильность сустава",
+            "url": "#"
+        },
+        {
+            "name": "Суставы",
+            "url": "#"
+        },
+        {
+            "name": "Ортопедия",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Вывих",
+            "url": "#"
+        },
+        {
+            "name": "Связки",
+            "url": "#"
+        },
+        {
+            "name": "Реабилитация",
+            "url": "#"
+        }
+    ]
+}

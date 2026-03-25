@@ -1,0 +1,41 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/gipogalaktiya",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1521\/1521126.png",
+            "title": "Гипогалактия – причины, симптомы, лечение и профилактика заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/podagra",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/6450\/6450231.png",
+            "title": "Подагра – что это, причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelom-so-smeshcheniem",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом со смещением – причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ostryy-rinit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Острый ринит – причины, симптомы, виды, диагностика и лечение взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-myshtsakh",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3782\/3782011.png",
+            "title": "Боль в мышцах (миалгия) – симптомы, причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/rubec-na-matke",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Рубец на матке – симптомы, причины, диагностика и лечение во время беременности",
+            "classes": "health"
+        }
+    ],
+    "tags": []
+}

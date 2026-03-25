@@ -1,0 +1,74 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/temperatura",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3063\/3063137.png",
+            "title": "🌡️ Температура тела: причины, виды, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/ekzema-soskov",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/8604\/8604378.png",
+            "title": "Экзема сосков – симптомы, причины, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/emfizema-legkih",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Эмфизема легких – причины, симптомы, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/tazovoe-predlezhanie-ploda",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2302\/2302743.png",
+            "title": "Тазовое предлежание плода – что это, причины, симптомы, диагностика и лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/zavisimost",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7095\/7095967.png",
+            "title": "Зависимость (аддикция) – причины, признаки химической и психологической зависимостей, виды, диагностика и лечение заболевания у взрослых",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/bol-v-nizhnej-chelyusti",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2725\/2725614.png",
+            "title": "Боль в нижней челюсти – причины, симптомы, виды, диагностика и лечение",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Нейрогенный мочевой пузырь",
+            "url": "#"
+        },
+        {
+            "name": "Мочевой пузырь",
+            "url": "#"
+        },
+        {
+            "name": "Неврология",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Урология",
+            "url": "#"
+        }
+    ]
+}

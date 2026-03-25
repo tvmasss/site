@@ -1,0 +1,82 @@
+{
+    "relatedPosts": [
+        {
+            "url": "\/health\/uretrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/7370\/7370277.png",
+            "title": "Уретрит – причины, симптомы, признаки, виды, диагностика и лечение у женщин и мужчин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/adenoidit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3073\/3073996.png",
+            "title": "Аденоидит у взрослых: причины, симптомы и современное лечение",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/silikoz",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/3654\/3654698.png",
+            "title": "Силикоз – причины, симптомы, виды, диагностика и лечение заболевания",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/endometrit",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/2309\/2309130.png",
+            "title": "Эндометрит – причины, симптомы, виды, диагностика и лечение заболевания у женщин",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/perelomy-stopy",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/4657\/4657792.png",
+            "title": "Перелом стопы: симптомы, лечение и реабилитация",
+            "classes": "health"
+        },
+        {
+            "url": "\/health\/kurinaya-slepota",
+            "img": "https:\/\/cdn-icons-png.flaticon.com\/128\/1806\/1806326.png",
+            "title": "Куриная слепота (гемералопия) – причины, симптомы, лечение и диагностика заболевания",
+            "classes": "health"
+        }
+    ],
+    "tags": [
+        {
+            "name": "Низкая плацентация",
+            "url": "#"
+        },
+        {
+            "name": "Плацента",
+            "url": "#"
+        },
+        {
+            "name": "Беременность",
+            "url": "#"
+        },
+        {
+            "name": "Симптомы",
+            "url": "#"
+        },
+        {
+            "name": "Причины",
+            "url": "#"
+        },
+        {
+            "name": "Лечение",
+            "url": "#"
+        },
+        {
+            "name": "Диагностика",
+            "url": "#"
+        },
+        {
+            "name": "Осложнения",
+            "url": "#"
+        },
+        {
+            "name": "Акушерство",
+            "url": "#"
+        },
+        {
+            "name": "Предлежание",
+            "url": "#"
+        }
+    ]
+}
